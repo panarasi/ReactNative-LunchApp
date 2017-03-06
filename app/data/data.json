@@ -1,0 +1,4010 @@
+{
+  "food": [
+    {
+      "id": 0,
+      "name": "Crock Pot Roast",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "name": "beef roast"
+        },
+        {
+          "quantity": "1 package",
+          "name": "brown gravy mix"
+        },
+        {
+          "quantity": "1 package",
+          "name": "dried Italian salad dressing mix"
+        },
+        {
+          "quantity": "1 package",
+          "name": "dry ranch dressing mix"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "water"
+        }
+      ],
+      "imageURL": "http://i.imgur.com/p5r1wye.jpg",
+      "steps": [
+        "Place beef roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+      ],
+      "category": "Unknown",
+      "price": 44
+    },
+    {
+      "id": 1,
+      "name": "Roasted Asparagus",
+      "ingredients": [
+        {
+          "quantity": "1 lb",
+          "name": " asparagus"
+        },
+        {
+          "quantity": "1 1/2 tbsp",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "kosher salt"
+        }
+      ],
+      "imageURL": "http://i.imgur.com/AainvrX.jpg",
+      "steps": [
+        "Preheat oven to 425°F.",
+        "Cut off the woody bottom part of the asparagus spears and discard.",
+        "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+        "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+        "Sprinkle with salt.",
+        "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+        "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+        "They should be tender when pierced with the tip of a knife.",
+        "The tips of the spears will get very brown but watch them to prevent burning.",
+        "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+      ],
+      "category": "Unknown",
+      "price": 39
+    },
+    {
+      "id": 2,
+      "name": "Curried Lentils and Rice",
+      "ingredients": [
+        {
+          "quantity": "1 quart",
+          "name": "beef broth"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "dried green lentils"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "basmati rice"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "curry powder"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "salt"
+        }
+      ],
+      "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg",
+      "steps": [
+        "Bring broth to a low boil.",
+        "Add curry powder and salt.",
+        "Cook lentils for 20 minutes.",
+        "Add rice and simmer for 20 minutes.",
+        "Enjoy!"
+      ],
+      "category": "Unknown",
+      "price": 33
+    },
+    {
+      "id": 3,
+      "name": "Big Night Pizza",
+      "ingredients": [
+        {
+          "quantity": "5 teaspoons",
+          "name": "yeast"
+        },
+        {
+          "quantity": "5 cups",
+          "name": "flour"
+        },
+        {
+          "quantity": "4 tablespoons",
+          "name": "vegetable oil"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "sugar"
+        },
+        {
+          "quantity": "2 teaspoons",
+          "name": "salt"
+        },
+        {
+          "quantity": "2 cups",
+          "name": "hot water"
+        },
+        {
+          "quantity": "1/4 cup",
+          "name": "pizza sauce"
+        },
+        {
+          "quantity": "3/4 cup",
+          "name": "mozzarella cheese"
+        }
+      ],
+      "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg",
+      "steps": [
+        "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+        "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+        "Knead the dough and spread onto a pan.",
+        "Spread pizza sauce and sprinkle cheese.",
+        "Add any optional toppings as you wish.",
+        "Bake at 400 deg Fahrenheit for 15 minutes.",
+        "Enjoy!"
+      ],
+      "category": "Unknown",
+      "price": 92
+    },
+    {
+      "id": 4,
+      "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+      "ingredients": [
+        {
+          "quantity": "2",
+          "name": "acorn squash"
+        },
+        {
+          "quantity": "1",
+          "name": "boiling water"
+        },
+        {
+          "quantity": "2",
+          "name": "apples chopped into 1.4 inch pieces"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "dried cranberries"
+        },
+        {
+          "quantity": "1 teaspoon",
+          "name": "cinnamon"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "melted butter"
+        }
+      ],
+      "imageURL": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+      "steps": [
+        "Cut squash in half, remove seeds.",
+        "Place squash in baking dish, cut-side down.",
+        "Pour 1/4-inch water into dish.",
+        "Bake for 30 minutes at 350 degrees F.",
+        "In large bowl, combine remaining ingredients.",
+        "Remove squash from oven, fill with mix.",
+        "Bake for 30-40 more minutes, until squash tender.",
+        "Enjoy!"
+      ],
+      "category": "Unknown",
+      "price": 4
+    },
+    {
+      "id": 5,
+      "name": "Mic's Yorkshire Puds",
+      "ingredients": [
+        {
+          "quantity": "200g",
+          "name": "plain flour"
+        },
+        {
+          "quantity": "3",
+          "name": "eggs"
+        },
+        {
+          "quantity": "300ml",
+          "name": "milk"
+        },
+        {
+          "quantity": "3 tbsp",
+          "name": "vegetable oil"
+        }
+      ],
+      "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+      "steps": [
+        "Put the flour and some seasoning into a large bowl.",
+        "Stir in eggs, one at a time.",
+        "Whisk in milk until you have a smooth batter.",
+        "Chill in the fridge for at least 30 minutes.",
+        "Heat oven to 220C/gas mark 7.",
+        "Pour the oil into the holes of a 8-hole muffin tin.",
+        "Heat tin in the oven for 5 minutes.",
+        "Ladle the batter mix into the tin.",
+        "Bake for 30 minutes until well browned and risen."
+      ],
+      "category": "Unknown",
+      "price": 36
+    },
+    {
+      "id": 6,
+      "name": "Old-Fashioned Oatmeal Cookies",
+      "ingredients": [
+        {
+          "quantity": "1 cup",
+          "name": "raisins"
+        },
+        {
+          "quantity": "1",
+          "name": "cup water"
+        },
+        {
+          "quantity": "3/4 cup",
+          "name": "shortening"
+        },
+        {
+          "quantity": "1 1/2 cups",
+          "name": "sugar"
+        },
+        {
+          "quantity": "2 1/2 cups",
+          "name": "flour"
+        },
+        {
+          "quantity": "1 tsp.",
+          "name": "soda"
+        },
+        {
+          "quantity": "1 tsp.",
+          "name": "salt"
+        },
+        {
+          "quantity": "1 tsp.",
+          "name": "cinnamon"
+        },
+        {
+          "quantity": "1/2 tsp.",
+          "name": "baking powder"
+        },
+        {
+          "quantity": "1/2 tsp.",
+          "name": "cloves"
+        },
+        {
+          "quantity": "2 cups",
+          "name": "oats"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "chopped nuts"
+        }
+      ],
+      "imageURL": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+      "steps": [
+        "Simmer raisins and water over medium heat until raisins are plump, about 15 minutes.",
+        "Drain raisins, reserving the liquid.",
+        "Add enough water to reserved liquid to measure 1/2 cup.",
+        "Heat oven to 400°.",
+        "Mix thoroughly shortening, sugar, eggs and vanilla.",
+        "Stir in reserved liquid.",
+        "Blend in remaining ingredients.",
+        "Drop dough by rounded teaspoonfuls about 2 inches apart onto ungreased baking sheet.",
+        "Bake 8 to 10 minutes or until light brown.",
+        "About 6 1/2 dozen cookies."
+      ],
+      "category": "Unknown",
+      "price": 30
+    },
+    {
+      "id": 7,
+      "name": "Blueberry Oatmeal Squares",
+      "ingredients": [
+        {
+          "quantity": "2-1/2 cups",
+          "name": "rolled oats, (not instant)"
+        },
+        {
+          "quantity": "1-1/4 cups",
+          "name": "all-purpose flour"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "grated orange rind"
+        },
+        {
+          "quantity": "1/4 tsp",
+          "name": "salt"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "cold butter, cubed"
+        },
+        {
+          "quantity": "3/4 cup",
+          "name": "packed brown sugar"
+        },
+        {
+          "quantity": "3 cups",
+          "name": "fresh blueberries"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "granulated sugar"
+        },
+        {
+          "quantity": "1/3 cup",
+          "name": "orange juice"
+        },
+        {
+          "quantity": "4 tsp",
+          "name": "cornstarch"
+        }
+      ],
+      "imageURL": "http://www.canadianliving.com/img/photos/biz/blueberry-oatmeal-squares5801359401371.jpg",
+      "steps": [
+        "Filling: In saucepan, bring blueberries, sugar and orange juice to boil; reduce heat and simmer until tender, about 10 minutes.",
+        "Whisk cornstarch with 2 tbsp (25 mL) water; whisk into blueberries and boil, stirring, until thickened, about 1 minute.",
+        "Place plastic wrap directly on surface; refrigerate until cooled, about 1 hour.",
+        "In large bowl, whisk together oats, flour, sugar, orange rind and salt ; with pastry blender, cut in butter until in coarse crumbs.",
+        "Press half into 8-inch (2 L) square parchment paper–lined metal cake pan; spread with blueberry filling.",
+        "Bake in centre of 350°F oven until light golden, about 45 minutes.",
+        "Let cool on rack before cutting into squares.",
+        "(Make-ahead: Cover and refrigerate for up to 2 days or overwrap with heavy-duty foil and freeze for up to 2 weeks.)"
+      ],
+      "category": "Unknown",
+      "price": 32
+    },
+    {
+      "id": 8,
+      "name": "Curried chicken salad",
+      "ingredients": [
+        {
+          "quantity": "3",
+          "name": "skinless, boneless chicken breasts, halved lengthwise"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "mayonnaise"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "lemon zest"
+        },
+        {
+          "quantity": "1 tbsp ",
+          "name": "lemon juice"
+        },
+        {
+          "quantity": "1 1/2 tsp",
+          "name": "curry powder"
+        },
+        {
+          "quantity": "1/4 tsp",
+          "name": "salt"
+        },
+        {
+          "quantity": "2",
+          "name": "ripe mangoes, diced"
+        },
+        {
+          "quantity": "1/4 cup",
+          "name": "dried cranberries"
+        },
+        {
+          "quantity": "2",
+          "name": "green onions, thinly sliced"
+        },
+        {
+          "quantity": "1",
+          "name": "celery stalk, finely chopped"
+        },
+        {
+          "quantity": "6 leaves",
+          "name": "Boston lettuce"
+        },
+        {
+          "quantity": "6",
+          "name": "English muffins, toasted"
+        }
+      ],
+      "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+      "steps": [
+        "ARRANGE chicken in a single layer in a large pot.",
+        "Add water to just cover.",
+        "Bring to a boil over medium-high.",
+        "Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+        "Cool.",
+        "STIR mayo with lemon zest, juice, curry and salt in large bowl.",
+        "Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.",
+        "Divide among muffins with lettuce leaves",
+        "Sandwich with tops"
+      ],
+      "category": "Unknown",
+      "price": 62
+    },
+    {
+      "id": "52764",
+      "name": "Garides Saganaki",
+      "category": "Seafood",
+      "steps": [
+        "Place the prawns in a pot and add enough water to cover. Boil for 5 minutes. Drain, reserving the liquid, and set aside.",
+        "Heat 2 tablespoons of oil in a saucepan. Add the onion; cook and stir until soft. Mix in the parsley, wine, tomatoes, garlic and remaining olive oil. Simmer, stirring occasionally, for about 30 minutes, or until the sauce is thickened.",
+        "While the sauce is simmering, the prawns should become cool enough to handle. First remove the legs by pinching them, and then pull off the shells, leaving the head and tail on.",
+        "When the sauce has thickened, stir in the prawns. Bring to a simmer again if the sauce has cooled with the prawns, and cook for about 5 minutes. Add the feta and remove from the heat. Let stand until the cheese starts to melt. Serve warm with slices of crusty bread.",
+        "Though completely untraditional, you can add a few tablespoons of stock or passata to this recipe to make a delicious pasta sauce. Toss with pasta after adding the feta, and serve."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "500g",
+          "name": "Raw king prawns"
+        },
+        {
+          "quantity": "3 tablespoons",
+          "name": "Olive oil"
+        },
+        {
+          "quantity": "1",
+          "name": "Chopped onion"
+        },
+        {
+          "quantity": "pinch",
+          "name": "Freshly chopped parsley"
+        },
+        {
+          "quantity": "250ml",
+          "name": "White wine"
+        },
+        {
+          "quantity": "1 (400g) tin",
+          "name": "Chopped tomatoes"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "Minced garlic"
+        },
+        {
+          "quantity": "1 (200g) pack",
+          "name": "Cubed Feta cheese"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 61
+    },
+    {
+      "id": "52765",
+      "name": "Chicken Enchilada Casserole",
+      "category": "Chicken",
+      "steps": [
+        "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.",
+        "Remove chicken from the pot and shred with two forks.",
+        "Preheat oven to 375 F degrees.",
+        "Start layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.",
+        "Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top.",
+        "Serve warm."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "14 oz jar",
+          "name": "Enchilada sauce"
+        },
+        {
+          "quantity": "3 Cups",
+          "name": "shredded Monterey Jack cheese"
+        },
+        {
+          "quantity": "6",
+          "name": "corn tortillas"
+        },
+        {
+          "quantity": "2",
+          "name": "chicken breasts"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 50
+    },
+    {
+      "id": "52767",
+      "name": "Bakewell tart",
+      "category": "Desert",
+      "steps": [
+        "To make the pastry, measure the flour into a bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs. Add the water, mixing to form a soft dough.",
+        "Roll out the dough on a lightly floured work surface and use to line a 20cm/8in flan tin. Leave in the fridge to chill for 30 minutes.",
+        "Preheat the oven to 200C/400F/Gas 6 (180C fan).",
+        "Line the pastry case with foil and fill with baking beans. Bake blind for about 15 minutes, then remove the beans and foil and cook for a further five minutes to dry out the base.",
+        "For the filing, spread the base of the flan generously with raspberry jam.",
+        "Melt the butter in a pan, take off the heat and then stir in the sugar. Add ground almonds, egg and almond extract. Pour into the flan tin and sprinkle over the flaked almonds.",
+        "Bake for about 35 minutes. If the almonds seem to be browning too quickly, cover the tart loosely with foil to prevent them burning."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "175g/6oz",
+          "name": "plain flour"
+        },
+        {
+          "quantity": "75g/2½oz",
+          "name": "chilled butter"
+        },
+        {
+          "quantity": "2-3 tbsp",
+          "name": "cold water"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "raspberry jam"
+        },
+        {
+          "quantity": "125g/4½oz",
+          "name": "butter"
+        },
+        {
+          "quantity": "125g/4½oz",
+          "name": "caster sugar"
+        },
+        {
+          "quantity": "125g/4½oz",
+          "name": "ground almonds"
+        },
+        {
+          "quantity": "1",
+          "name": "free-range egg, beaten"
+        },
+        {
+          "quantity": "½ tsp",
+          "name": "almond extract"
+        },
+        {
+          "quantity": "50g/1¾oz",
+          "name": "flaked almonds"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 99
+    },
+    {
+      "id": "52768",
+      "name": "Apple Frangipan Tart ",
+      "category": "Desert",
+      "steps": [
+        "Preheat the oven to 200C/180C Fan/Gas 6.",
+        "Put the biscuits in a large re-sealable freezer bag and bash with a rolling pin into fine crumbs. Melt the butter in a small pan, then add the biscuit crumbs and stir until coated with butter. Tip into the tart tin and, using the back of a spoon, press over the base and sides of the tin to give an even layer. Chill in the fridge while you make the filling.",
+        "Cream together the butter and sugar until light and fluffy. You can do this in a food processor if you have one. Process for 2-3 minutes. Mix in the eggs, then add the ground almonds and almond extract and blend until well combined.",
+        "Peel the apples, and cut thin slices of apple. Do this at the last minute to prevent the apple going brown. Arrange the slices over the biscuit base. Spread the frangipane filling evenly on top. Level the surface and sprinkle with the flaked almonds.",
+        "Bake for 20-25 minutes until golden-brown and set.",
+        "Remove from the oven and leave to cool for 15 minutes. Remove the sides of the tin. An easy way to do this is to stand the tin on a can of beans and push down gently on the edges of the tin.",
+        "Transfer the tart, with the tin base attached, to a serving plate. Serve warm with cream, crème fraiche or ice cream."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "175g/6oz",
+          "name": "digestive biscuits"
+        },
+        {
+          "quantity": "75g/3oz",
+          "name": "butter"
+        },
+        {
+          "quantity": "200g/7oz",
+          "name": "Bramley apples"
+        },
+        {
+          "quantity": "75g/3oz",
+          "name": "butter, softened"
+        },
+        {
+          "quantity": "75g/3oz",
+          "name": "caster sugar"
+        },
+        {
+          "quantity": "2",
+          "name": "free-range eggs, beaten"
+        },
+        {
+          "quantity": "75g/3oz",
+          "name": "ground almonds"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "almond extract"
+        },
+        {
+          "quantity": "50g/1¾oz",
+          "name": "flaked almonds"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 22
+    },
+    {
+      "id": "52769",
+      "name": "Kapsalon",
+      "category": "Lamb",
+      "steps": [
+        "Cut the meat into strips. Heat oil in a pan and fry the strips for 6 minutes until it's ready.",
+        "Bake the fries until golden brown in a deep fryrer. When ready transfer to a backing dish. Make sure the fries are spread over the whole dish.",
+        "Cover the fries with a new layer of meat and spread evenly.",
+        "Add a layer of cheese over the meat. You can also use grated cheese. When done put in the oven for a few minutes until the cheese is melted.",
+        "Chop the lettuce, tomato and cucumber in small pieces and mix together. for a basic salad. As extra you can add olives jalapenos and a red union.",
+        "Dived the salad over the dish and Serve with garlicsauce and hot sauce"
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "250 Grams",
+          "name": "Fries"
+        },
+        {
+          "quantity": "500 Grams",
+          "name": "Doner Meat"
+        },
+        {
+          "quantity": "Topping",
+          "name": "Garlic sauce"
+        },
+        {
+          "quantity": "Topping",
+          "name": "Hotsauce"
+        },
+        {
+          "quantity": "1 Bulb",
+          "name": "Lettuce"
+        },
+        {
+          "quantity": "1",
+          "name": "Tomato"
+        },
+        {
+          "quantity": "3rd",
+          "name": "Cucumber"
+        },
+        {
+          "quantity": "100 Grams",
+          "name": "Gouda cheese"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 19
+    },
+    {
+      "id": "52770",
+      "name": "Spaghetti Bolognese",
+      "category": "Beef",
+      "steps": [
+        "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins.",
+        "",
+        "Stir in the tomatoes, beef stock, tomato ketchup or purée, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins.",
+        "",
+        "Meanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "2",
+          "name": "onions"
+        },
+        {
+          "quantity": "1tbsp",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "1 clove",
+          "name": "garlic"
+        },
+        {
+          "quantity": "500g",
+          "name": "lean minced beef"
+        },
+        {
+          "quantity": "90g",
+          "name": "mushrooms"
+        },
+        {
+          "quantity": "1tsp",
+          "name": "dried oregano"
+        },
+        {
+          "quantity": "400g can",
+          "name": "tomatoes"
+        },
+        {
+          "quantity": "300ml",
+          "name": "hot beef stock"
+        },
+        {
+          "quantity": "1tbsp",
+          "name": "tomato puree"
+        },
+        {
+          "quantity": "1tbsp",
+          "name": "worcestershire sauce"
+        },
+        {
+          "quantity": "350g",
+          "name": "spaghetti"
+        },
+        {
+          "quantity": "Topping",
+          "name": "parmesan"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 16
+    },
+    {
+      "id": "52771",
+      "name": "Spicy Arrabiata Penne",
+      "category": "Vegetarian",
+      "steps": [
+        "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.",
+        "In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.",
+        "Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "1 pound",
+          "name": "penne rigate"
+        },
+        {
+          "quantity": "1/4 cup",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "3 cloves",
+          "name": "garlic"
+        },
+        {
+          "quantity": "1 tin ",
+          "name": "chopped tomatoes"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "red chile flakes"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "italian seasoning"
+        },
+        {
+          "quantity": "6 leaves",
+          "name": "basil"
+        },
+        {
+          "quantity": "spinkling",
+          "name": "Parmigiano-Reggiano"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 30
+    },
+    {
+      "id": "52772",
+      "name": "Teriyaki Chicken Casserole",
+      "category": "Chicken",
+      "steps": [
+        "Preheat oven to 350° F. Spray a 9x13-inch baking pan with non-stick spray.",
+        "Combine soy sauce, ½ cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling.",
+        "Meanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once sauce is boiling, add mixture to the saucepan and stir to combine. Cook until the sauce starts to thicken then remove from heat.",
+        "Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks.",
+        "*Meanwhile, steam or cook the vegetables according to package directions.",
+        "Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!"
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "3/4 cup",
+          "name": "soy sauce"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "water"
+        },
+        {
+          "quantity": "1/4 cup",
+          "name": "brown sugar"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "ground ginger"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "minced garlic"
+        },
+        {
+          "quantity": "4 Tablespoons",
+          "name": "cornstarch"
+        },
+        {
+          "quantity": "2",
+          "name": "chicken breasts"
+        },
+        {
+          "quantity": "1 (12 oz.)",
+          "name": "stir-fry vegetables"
+        },
+        {
+          "quantity": "3 cups",
+          "name": "brown rice"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 49
+    },
+    {
+      "id": "52773",
+      "name": "Honey Teriyaki Salmon",
+      "category": "Seafood",
+      "steps": [
+        "Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together.",
+        "",
+        "Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.",
+        "",
+        "Garnish with sesame and serve immediately."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "1 lb",
+          "name": "Salmon"
+        },
+        {
+          "quantity": "1 tablespoon",
+          "name": "Olive oil"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "Soy Sauce"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "Sake"
+        },
+        {
+          "quantity": "4 tablespoons",
+          "name": "Sesame Seed"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 53
+    },
+    {
+      "id": "52774",
+      "name": "Pad See Ew",
+      "category": "Chicken",
+      "steps": [
+        "Mix Sauce in small bowl.",
+        "Mince garlic into wok with oil. Place over high heat, when hot, add chicken and Chinese broccoli stems, cook until chicken is light golden.",
+        "Push to the side of the wok, crack egg in and scramble. Don't worry if it sticks to the bottom of the wok - it will char and which adds authentic flavour.",
+        "Add noodles, Chinese broccoli leaves and sauce. Gently mix together until the noodles are stained dark and leaves are wilted. Serve immediately!"
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "6oz/180g",
+          "name": "rice stick noodles"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "dark soy sauce"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "oyster sauce"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "soy sauce"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "white vinegar"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "sugar"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "water"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "peanut oil"
+        },
+        {
+          "quantity": "2 cloves",
+          "name": "garlic"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "Chicken"
+        },
+        {
+          "quantity": "1",
+          "name": "Egg"
+        },
+        {
+          "quantity": "4 cups",
+          "name": "Chinese broccoli"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 18
+    },
+    {
+      "id": "52775",
+      "name": "Vegan Lasagna",
+      "category": "Vegan",
+      "steps": [
+        "1) Preheat oven to 180 degrees celcius. ",
+        "2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. ",
+        "3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. ",
+        "4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.",
+        "5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. ",
+        "6) Bake in the preheated oven for about 25 minutes."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+      "source": null,
+      "ingredients": [
+        {
+          "quantity": "1 cups",
+          "name": "green red lentils"
+        },
+        {
+          "quantity": "1",
+          "name": "carrot"
+        },
+        {
+          "quantity": "1",
+          "name": "onion"
+        },
+        {
+          "quantity": "1 small",
+          "name": "zucchini"
+        },
+        {
+          "quantity": "sprinking",
+          "name": "coriander"
+        },
+        {
+          "quantity": "150g",
+          "name": "spinach"
+        },
+        {
+          "quantity": "10",
+          "name": "lasagne sheets"
+        },
+        {
+          "quantity": "35g",
+          "name": "vegan butter"
+        },
+        {
+          "quantity": "4 tablespoons",
+          "name": "flour"
+        },
+        {
+          "quantity": "300ml",
+          "name": "soya milk"
+        },
+        {
+          "quantity": "1.5 teaspoons",
+          "name": "mustard"
+        },
+        {
+          "quantity": "1 teaspoon",
+          "name": "vinegar"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 37
+    },
+    {
+      "id": "52776",
+      "name": "Chocolate Gateau",
+      "category": "Desert",
+      "steps": [
+        "Preheat the oven to 180°C/350°F/Gas Mark 4. Grease and line the base of an 8 in round spring form cake tin with baking parchment",
+        "Break the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts. (or melt in the microwave for 2-3 mins stirring occasionally)",
+        "Place the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy. Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth.",
+        "Spread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly. Cool for 10 minutes, then turn out and cool completely."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+      "source": "http://www.goodtoknow.co.uk/recipes/536028/chocolate-gateau",
+      "ingredients": [
+        {
+          "quantity": "250g",
+          "name": "Plain chocolate"
+        },
+        {
+          "quantity": "175g",
+          "name": "Butter"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "Milk"
+        },
+        {
+          "quantity": "5",
+          "name": "Eggs"
+        },
+        {
+          "quantity": "175g",
+          "name": "Granulated Sugar"
+        },
+        {
+          "quantity": "125g",
+          "name": "Flour"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 92
+    },
+    {
+      "id": "52777",
+      "name": "Mediterranean Pasta Salad",
+      "category": "Chicken",
+      "steps": [
+        "Bring a large saucepan of salted water to the boil",
+        "Add the pasta, stir once and cook for about 10 minutes or as directed on the packet.",
+        "Meanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil.",
+        "Put the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix.",
+        "When the pasta is ready, drain into a colander and run cold water over it to cool it quickly.",
+        "Toss the pasta into the salad bowl with the tomatoes and basil.",
+        "Add the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavours to mingle.",
+        "Sprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "source": "http://thelemonsqueezy.com/recipe/mediterranean-pasta-salad/",
+      "ingredients": [
+        {
+          "quantity": "200 g",
+          "name": "mozzarella balls"
+        },
+        {
+          "quantity": "250 g",
+          "name": "baby plum tomatoes"
+        },
+        {
+          "quantity": "1  bunch",
+          "name": "fresh basil"
+        },
+        {
+          "quantity": "350 g",
+          "name": "farfalle"
+        },
+        {
+          "quantity": "3  tablespoons",
+          "name": "extra virgin olive oil"
+        },
+        {
+          "quantity": "40 g",
+          "name": "Green Olives"
+        },
+        {
+          "quantity": "200 g",
+          "name": "tuna"
+        },
+        {
+          "quantity": "to taste",
+          "name": "salt"
+        },
+        {
+          "quantity": "to taste",
+          "name": "pepper"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 8
+    },
+    {
+      "id": "52779",
+      "name": "Cream Cheese Tart",
+      "category": "Starter",
+      "steps": [
+        "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy"
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+      "source": "http://www.instagram.com/p/BHyuMZ1hZX0",
+      "ingredients": [
+        {
+          "quantity": "250g",
+          "name": "Flour"
+        },
+        {
+          "quantity": "125g",
+          "name": "Butter"
+        },
+        {
+          "quantity": "1",
+          "name": "Egg"
+        },
+        {
+          "quantity": "Pinch",
+          "name": "Salt"
+        },
+        {
+          "quantity": "300g",
+          "name": "Cheese"
+        },
+        {
+          "quantity": "100ml milk",
+          "name": "Milk"
+        },
+        {
+          "quantity": "3",
+          "name": "Eggs"
+        },
+        {
+          "quantity": "100g",
+          "name": "Parmesan Cheese"
+        },
+        {
+          "quantity": "350g",
+          "name": "Plum tomatoes"
+        },
+        {
+          "quantity": "3tbsp",
+          "name": "White Vinegar"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Honey"
+        },
+        {
+          "quantity": "Topping",
+          "name": "Basil"
+        }
+      ],
+      "price": 26
+    },
+    {
+      "id": "52780",
+      "name": "Potato Gratin with Chicken",
+      "category": "Chicken",
+      "steps": [
+        "15 minute potato gratin with chicken and bacon greens, ",
+        "a gratin always seems more effort and more indulgent than ordinary boiled or roasts, but it doesn't have to take 45mins",
+        "it's nice for a change and you can control the calorie content by going with full fat to low fat creme fraiche.",
+        "(It's always tastes better full fat though obviously!) ",
+        "to serve 4: use 800g of potatoes, finely slice and boil in a pan for about 5-8 mins till firmish, not soft. Finely slice 3 onions and place in an oven dish with 2 tblsp of olive oil and 100ml of chicken stock. Cook till the onions are soft then drain the potatoes and pour onto the onions. Season and spoon over cream or creme fraiche till all is covered but not swimming. Grate Parmesan over the top then finish under the grill till nicely golden. serve with chicken and bacon, peas and spinach."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+      "source": "http://www.instagram.com/p/BHxR7hYBJ6P",
+      "ingredients": [
+        {
+          "quantity": "800g",
+          "name": "Potatoes"
+        },
+        {
+          "quantity": "3",
+          "name": "Onions"
+        },
+        {
+          "quantity": "2 tblsp",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "100ml",
+          "name": "Chicken Stock"
+        },
+        {
+          "quantity": "1 pot",
+          "name": "Creme Fraiche"
+        },
+        {
+          "quantity": "Topping",
+          "name": "Parmesan"
+        },
+        {
+          "quantity": "4",
+          "name": "Chicken Breasts"
+        },
+        {
+          "quantity": "4",
+          "name": "Bacon"
+        },
+        {
+          "quantity": "Topping",
+          "name": "Spinach"
+        },
+        {
+          "quantity": "Topping",
+          "name": "Peas"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 18
+    },
+    {
+      "id": "52781",
+      "name": "Irish stew",
+      "category": "Beef",
+      "steps": [
+        "Heat the oven to 180C/350F/gas mark 4. Drain and rinse the soaked wheat, put it in a medium pan with lots of water, bring to a boil and simmer for an hour, until cooked. Drain and set aside.",
+        "",
+        "Season the lamb with a teaspoon of salt and some black pepper. Put one tablespoon of oil in a large, deep sauté pan for which you have a lid; place on a medium-high heat. Add some of the lamb – don't overcrowd the pan – and sear for four minutes on all sides. Transfer to a bowl, and repeat with the remaining lamb, adding oil as needed.",
+        "",
+        "Lower the heat to medium and add a tablespoon of oil to the pan. Add the shallots and fry for four minutes, until caramelised. Tip these into the lamb bowl, and repeat with the remaining vegetables until they are all nice and brown, adding more oil as you need it.",
+        "",
+        "Once all the vegetables are seared and removed from the pan, add the wine along with the sugar, herbs, a teaspoon of salt and a good grind of black pepper. Boil on a high heat for about three minutes.",
+        "",
+        "Tip the lamb, vegetables and whole wheat back into the pot, and add the stock. Cover and boil for five minutes, then transfer to the oven for an hour and a half.",
+        "",
+        "Remove the stew from the oven and check the liquid; if there is a lot, remove the lid and boil for a few minutes."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+      "source": "http://www.ottolenghi.co.uk/recipes/meat/irish-stew-shop",
+      "ingredients": [
+        {
+          "quantity": "300g soaked overnight in water",
+          "name": "whole wheat"
+        },
+        {
+          "quantity": "2kg cut into 3cm cubes",
+          "name": "lamb loin chops"
+        },
+        {
+          "quantity": "120ml",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "24 Skinned",
+          "name": "shallots"
+        },
+        {
+          "quantity": "4 large",
+          "name": "carrots"
+        },
+        {
+          "quantity": "2",
+          "name": "turnips"
+        },
+        {
+          "quantity": "1",
+          "name": "celeriac"
+        },
+        {
+          "quantity": "350g",
+          "name": "charlotte potatoes"
+        },
+        {
+          "quantity": "150ml",
+          "name": "white wine"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "caster sugar"
+        },
+        {
+          "quantity": "4 sprigs",
+          "name": "fresh thyme"
+        },
+        {
+          "quantity": "4 sprigs",
+          "name": "oregano"
+        },
+        {
+          "quantity": "450ml",
+          "name": "chicken stock"
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        },
+        {
+          "quantity": null,
+          "name": null
+        }
+      ],
+      "price": 35
+    },
+    {
+      "id": "52782",
+      "name": "Lamb tomato and sweet spices",
+      "category": "Chicken",
+      "steps": [
+        "Use pickled vine leaves here, preserved in brine. Small delicate leaves are better than the large bristly ones but, if only large leaves are to hand, then trim them to roughly 12 by 12 cms so that you don't get too many layers of leaves around the filling. And remove any stalks. Drain the preserved leaves, immerse them in boiling water for 10 minutes and then leave to dry on a tea towel before use. ",
+        "Basmati rice with butter and pine nuts is an ideal accompaniment. Couscous is great, too. Serves four.",
+        "First make the filling. Put all the ingredients, apart from the tomatoes, in a bowl. Cut the tomatoes in half, coarsely grate into the bowl and discard the skins. Add half a teaspoon of salt and some black pepper, and stir. Leave on the side, or in the fridge, for up to a day. Before using, gently squeeze with your hands and drain away any juices that come out.",
+        "To make the sauce, heat the oil in a medium pan. Add the ginger and garlic, cook for a minute or two, taking care not to burn them, then add the tomato, lemon juice and sugar. Season, and simmer for 20 minutes.",
+        "While the sauce is bubbling away, prepare the vine leaves. Use any torn or broken leaves to line the base of a wide, heavy saucepan. Trim any leaves from the fennel, cut it vertically into 0.5cm-thick slices and spread over the base of the pan to cover completely.",
+        "Lay a prepared vine leaf (see intro) on a work surface, veiny side up. Put two teaspoons of filling at the base of the leaf in a 2cm-long by 1cm-wide strip. Fold the sides of the leaf over the filling, then roll it tightly from bottom to top, in a cigar shape. Place in the pan, seam down, and repeat with the remaining leaves, placing them tightly next to each other in lines or circles (in two layers if necessary).",
+        "Pour the sauce over the leaves (and, if needed, add water just to cover). Place a plate on top, to weigh the leaves down, then cover with a lid. Bring to a boil, reduce the heat and cook on a bare simmer for 70 minutes. Most of the liquid should evaporate. Remove from the heat, and leave to cool a little - they are best served warm. When serving, bring to the table in the pan - it looks great. Serve a few vine leaves and fennel slices with warm rice. Spoon the braising juices on top and garnish with coriander."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg",
+      "source": "http://www.ottolenghi.co.uk/recipes/meat/lamb-tomato-and-sweet-spices-shop",
+      "ingredients": [
+        {
+          "quantity": "2 tbsp",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "4cm piece finely chopped",
+          "name": "ginger"
+        },
+        {
+          "quantity": "2 cloves peeled and chopped",
+          "name": "garlic"
+        },
+        {
+          "quantity": "800g peeled and chopped ",
+          "name": "tomatoes"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "lemon juice"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "caster sugar"
+        },
+        {
+          "quantity": "50",
+          "name": "vine leaves"
+        },
+        {
+          "quantity": "1 large",
+          "name": "fennel bulb"
+        },
+        {
+          "quantity": "400g",
+          "name": "lamb mince"
+        },
+        {
+          "quantity": "1 medium",
+          "name": "onion"
+        },
+        {
+          "quantity": "1 small peeled and coarsely grated",
+          "name": "potato"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "basmati rice"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "chopped parsley"
+        },
+        {
+          "quantity": "2 tbsp chopped",
+          "name": "coriander"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "lemon juice"
+        },
+        {
+          "quantity": "2 cloves",
+          "name": "garlic"
+        },
+        {
+          "quantity": "½ tsp ground",
+          "name": "clove"
+        },
+        {
+          "quantity": "½ tsp ground ",
+          "name": "cinnamon"
+        },
+        {
+          "quantity": "2 medium",
+          "name": "tomatoes"
+        }
+      ],
+      "price": 49
+    },
+    {
+      "id": "52783",
+      "name": "Rigatoni with fennel sausage sauce",
+      "category": "Lamb",
+      "steps": [
+        "Heat a tablespoon of oil in a large saute pan for which you have a lid. Add the sausage pieces and fry on a medium-high heat for 10 minutes, stirring regularly, until golden-brown all over. Transfer the sausages to a plate, then add the onion and fennel to the hot pan and fry for 15 minutes, stirring once in a while, until soft and caramelised; if the pan goes a bit dry, add a teaspoon or so of extra oil. Stir in the paprika, garlic and half the fennel seeds, fry for two minutes more, then pour on the wine and boil for 30 seconds, to reduce by half. Add the tomatoes, sugar, 100ml water, the seared sausage and half a teaspoon of salt, cover and simmer for 30 minutes; remove the lid after 10 minutes, and cook until the sauce is thick and rich. Remove from the heat, stir through the olives and remaining fennel seeds and set aside until you’re ready to serve.",
+        "",
+        "Bring a large pot of salted water to a boil, add the pasta and cook for 12-14 minutes (or according to the instructions on the packet), until al dente. Meanwhile, reheat the sauce. Drain the pasta, return it to the pot, stir in a tablespoon of oil, then divide between the bowls. ",
+        "",
+        "Put all the pesto ingredients except the basil in the small bowl of a food processor. Add a tablespoon of water and blitz to a rough paste. Add the basil, then blitz until just combined (the pesto has a much better texture if the basil is not overblended).",
+        "",
+        "Spoon over the ragù and top with a spoonful of pesto. Finish with a sprinkling of chopped fennel fronds, if you have any, and serve at once."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg",
+      "source": "http://www.ottolenghi.co.uk/recipes/meat/rigatoni-with-fennel-sausage-sauce-and-pecorino-and-anchovy-pesto-shop",
+      "ingredients": [
+        {
+          "quantity": "2½ tbsp",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "6 cut into 1.5cm-thick slices",
+          "name": "Italian fennel sausages"
+        },
+        {
+          "quantity": "1 large peeled and chopped",
+          "name": "onion"
+        },
+        {
+          "quantity": "1 trimmed and roughly chopped; reserve any fronds to garnish",
+          "name": "fennel bulb"
+        },
+        {
+          "quantity": "½ tsp",
+          "name": "smoky paprika"
+        },
+        {
+          "quantity": "1 clove, peeled and sliced",
+          "name": "garlic"
+        },
+        {
+          "quantity": "2 tsp lightly toasted and then gently crushed",
+          "name": "fennel seeds"
+        },
+        {
+          "quantity": "100ml",
+          "name": "red wine"
+        },
+        {
+          "quantity": "400g tinned",
+          "name": "chopped tomatoes"
+        },
+        {
+          "quantity": "½ tsp",
+          "name": "caster sugar"
+        },
+        {
+          "quantity": "50g cut in half lengthways",
+          "name": "pitted black olives"
+        },
+        {
+          "quantity": "500g",
+          "name": "rigatoni"
+        },
+        {
+          "quantity": "30g roughly crumbled into 0.5cm pieces",
+          "name": "pecorino"
+        },
+        {
+          "quantity": "1  rinsed and patted dry",
+          "name": "anchovy fillet"
+        },
+        {
+          "quantity": "1 clove, peeled and crushed",
+          "name": "garlic"
+        },
+        {
+          "quantity": "60ml",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "50g torn",
+          "name": "basil leaves"
+        }
+      ],
+      "price": 89
+    },
+    {
+      "id": "52784",
+      "name": "Smoky Lentil Chili with Squash",
+      "category": "Vegetarian",
+      "steps": [
+        "Begin by roasting the squash. Slice it into thin crescents and drizzle with a little oil and sprinkle with sea salt. I added a fresh little sage I had in the fridge, but it’s unnecessary. Roast the squash a 205 C (400 F) for 20-30 minutes, flipping halfway through, until soft and golden. Let cool and chop into cubes.",
+        "Meanwhile, rinse the lentils and cover them with water. Bring them to the boil then turn down to a simmer and let cook (uncovered) for 20-30 minutes, or until tender. Drain and set aside.",
+        "While the lentils are cooking heat the 1 Tbsp. of oil on low in a medium pot. Add the onions and leeks and sauté for 5 or so minutes, or until they begin to soften. Add the garlic next along with the cumin and coriander, cooking for a few more minutes. Add the remaining spices – paprika, cinnamon, chilli, cocoa, Worcestershire sauce, salt, and oregano. Next add the can of tomatoes, the water or stock, and carrots. Let simmer, covered, for 20 minutes or until the veg is tender and the mixture has thickened up. You’ll need to check on the pot periodically for a stir and a top of of liquid if needed.",
+        "Add the lentils and chopped roasted squash. Let cook for 10 more minutes to heat through.",
+        "Serve with sliced jalapeno, lime wedges, cilantro, green onions, and cashew sour cream.",
+        "",
+        "SIMPLE CASHEW SOUR CREAM",
+        "",
+        "1 Cup Raw Unsalted Cashews",
+        "Pinch Sea Salt",
+        "1 tsp. Apple Cider Vinegar",
+        "Water",
+        "",
+        "Bring some water to the boil, and use it to soak the cashews for at least four hours. Alternatively, you can use cold water and let the cashews soak overnight, but I’m forgetful/lazy, so often use the boil method which is much faster.",
+        "After the cashews have soaked, drain them and add to a high speed blender. Begin to puree, slowly adding about 1/2 cup fresh water, until a creamy consistency is reached. You may need to add less or more water to reach the desired consistency.",
+        "Add a pinch of sea salt and vinegar (or lemon juice)."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg",
+      "source": "http://www.wholeheartedeats.com/2016/11/smoky-lentil-chili-squash/",
+      "ingredients": [
+        {
+          "quantity": "1 tbls",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "1",
+          "name": "Onion"
+        },
+        {
+          "quantity": "1 chopped",
+          "name": "Leek"
+        },
+        {
+          "quantity": "3 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "4 tsp ground ",
+          "name": "Cumin"
+        },
+        {
+          "quantity": "2 tsp ground",
+          "name": "Coriander"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Smoked Paprika"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "Cinnamon"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Chili Powder"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Cocoa"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "Dried Oregano"
+        },
+        {
+          "quantity": "1 can",
+          "name": "Diced Tomatoes"
+        },
+        {
+          "quantity": "3 cups",
+          "name": "Water"
+        },
+        {
+          "quantity": "3 chopped",
+          "name": "Carrots"
+        },
+        {
+          "quantity": "1 1/2 cups",
+          "name": "Brown Lentils"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Sea Salt"
+        },
+        {
+          "quantity": "1 Small",
+          "name": "Squash"
+        },
+        {
+          "quantity": "1 Cup",
+          "name": "Cashews"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Apple Cider Vinegar"
+        }
+      ],
+      "price": 36
+    },
+    {
+      "id": "52785",
+      "name": "Dal fry",
+      "category": "Vegetarian",
+      "steps": [
+        "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.",
+        "Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.",
+        "In a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.",
+        "Add tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.",
+        "Add cilantro and garam masala cook for about one minute.",
+        "Pour the seasoning over dal mix it well and cook for another minute.",
+        "Serve with Naan."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "source": "http://www.instagram.com/p/BO21bpYD3Fu",
+      "ingredients": [
+        {
+          "quantity": "1 cup",
+          "name": "Toor dal"
+        },
+        {
+          "quantity": "2-1/2 cups",
+          "name": "Water"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Salt"
+        },
+        {
+          "quantity": "1/4 tsp",
+          "name": "Turmeric"
+        },
+        {
+          "quantity": "3 tbs",
+          "name": "Ghee"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "Chopped tomatoes"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "Cumin seeds"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "Mustard Seeds"
+        },
+        {
+          "quantity": "2",
+          "name": "Bay Leaf"
+        },
+        {
+          "quantity": "1 tbs chopped",
+          "name": "Green Chili"
+        },
+        {
+          "quantity": "2 tsp shredded",
+          "name": "Ginger"
+        },
+        {
+          "quantity": "2 tbs ",
+          "name": "Cilantro"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "Red Pepper"
+        },
+        {
+          "quantity": "1/2 tsp",
+          "name": "Salt"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Sugar"
+        },
+        {
+          "quantity": "1/4 tsp",
+          "name": "Garam Masala"
+        }
+      ],
+      "price": 95
+    },
+    {
+      "id": "52786",
+      "name": "Rocky Road Fudge",
+      "category": "Desert",
+      "steps": [
+        "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.",
+        "Pour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.",
+        "In a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+        "Add the vanilla extract and stir well, until smooth.",
+        "Reserve 2 tablespoons of the chopped almonds or peanuts, and set aside.",
+        "Fold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.",
+        "Transfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.",
+        "Refrigerate for 4 hours, or until set.",
+        "Remove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.",
+        "Cut the fudge into bite-sized pieces and serve."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg",
+      "source": "http://tiphero.com/rocky-road-fudge/",
+      "ingredients": [
+        {
+          "quantity": "2 cups",
+          "name": "Miniature Marshmallows"
+        },
+        {
+          "quantity": "3 cups",
+          "name": "Chocolate Chips"
+        },
+        {
+          "quantity": "½ cup",
+          "name": "Peanut Butter"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Vanilla Extract"
+        },
+        {
+          "quantity": "1 ¼ cups",
+          "name": "Peanuts"
+        }
+      ],
+      "price": 75
+    },
+    {
+      "id": "52787",
+      "name": "Hot Chocolate Fudge",
+      "category": "Desert",
+      "steps": [
+        "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.",
+        "In a microwave-safe bowl, combine the dark chocolate chips, heavy cream and half of the sweetened condensed milk. Microwave the dark chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+        "Add the vanilla extract to the dark chocolate mixture and stir well until smooth.",
+        "Transfer the dark chocolate mixture into the prepared pan and spread into an even layer.",
+        "In a separate bowl, combine the white chocolate chips with the remaining half of the sweetened condensed milk. Microwave the white chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.",
+        "Evenly spread the white chocolate mixture on top of dark chocolate layer.",
+        "Top the chocolate layers with the Mallow Bits or miniature marshmallows, and gently press them down.",
+        "Refrigerate for 4 hours, or until set.",
+        "Remove the fudge and wax paper from the pan. Carefully peel all of the wax paper from the fudge.",
+        "Cut the fudge into bite-sized pieces and serve."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "2 cups",
+          "name": "Chocolate Chips"
+        },
+        {
+          "quantity": "2 tbs",
+          "name": "Heavy Cream"
+        },
+        {
+          "quantity": "1 – 14-ounce can",
+          "name": "Condensed Milk"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Vanilla Extract"
+        },
+        {
+          "quantity": "1-⅓ cups",
+          "name": "White Chocolate Chips"
+        },
+        {
+          "quantity": "1-½ cups",
+          "name": "Miniature Marshmallows"
+        }
+      ],
+      "price": 9
+    },
+    {
+      "id": "52788",
+      "name": "Christmas Pudding Flapjack",
+      "category": "Desert",
+      "steps": [
+        "Preheat the oven to 180°C/fan 160°C/gas mark 4 and grease and line a 25cm x 20cm tin. Melt the butter, sugar, syrup and orange zest in a large saucepan over a medium heat. The aim is to dissolve all the ingredients so that they are smooth, but to not lose any volume through boiling so be careful not to overheat.",
+        "",
+        "Add the oats and stir well until evenly coated. Stir through the leftover Christmas pudding and tip into the prepared tin. Use a spoon to flatten the top and bake for 40 minutes until the edges start to brown. Whilst still warm in the tin, score into 12 squares. Allow to cool completely before cutting along the scores.",
+        "",
+        "Keeps for 5 days in an air tight tin or freeze for up to 1 month."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "250g",
+          "name": "salted butter"
+        },
+        {
+          "quantity": "225g",
+          "name": "dark soft brown sugar"
+        },
+        {
+          "quantity": "150g",
+          "name": "golden syrup"
+        },
+        {
+          "quantity": "Zest of 1",
+          "name": "orange"
+        },
+        {
+          "quantity": "500g",
+          "name": "rolled oats"
+        },
+        {
+          "quantity": "250g",
+          "name": "Christmas pudding"
+        }
+      ],
+      "price": 34
+    },
+    {
+      "id": "52791",
+      "name": "Eton Mess",
+      "category": "Desert",
+      "steps": [
+        "Purée half the strawberries in a blender. Chop the remaining strawberries, reserving four for decoration.",
+        "Whip the double cream until stiff peaks form, then fold in the strawberry purée and crushed meringue. Fold in the chopped strawberries and ginger cordial, if using.",
+        "Spoon equal amounts of the mixture into four cold wine glasses. Serve garnished with the remaining strawberries and a sprig of mint."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "500g",
+          "name": "strawberries"
+        },
+        {
+          "quantity": "400ml",
+          "name": "double cream"
+        },
+        {
+          "quantity": "3 x 7.5cm",
+          "name": "meringue nests"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "ginger cordial"
+        },
+        {
+          "quantity": "sprigs of fresh",
+          "name": "Mint"
+        }
+      ],
+      "price": 3
+    },
+    {
+      "id": "52792",
+      "name": "Bread and Butter Pudding",
+      "category": "Desert",
+      "steps": [
+        "Grease a 1 litre/2 pint pie dish with butter.",
+        "Cut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.",
+        "Arrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside.",
+        "Gently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil.",
+        "Crack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale.",
+        "Add the warm milk and cream mixture and stir well, then strain the custard into a bowl.",
+        "Pour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes.",
+        "Preheat the oven to 180C/355F/Gas 4.",
+        "Place the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+      "source": "http://www.youtube.com/watch?v=Vz5W1-BmOE4",
+      "ingredients": [
+        {
+          "quantity": "25g/1oz",
+          "name": "butter"
+        },
+        {
+          "quantity": "8 thin slices",
+          "name": "bread"
+        },
+        {
+          "quantity": "50g/2oz",
+          "name": "sultanas"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "cinnamon"
+        },
+        {
+          "quantity": "350ml/12fl",
+          "name": "milk"
+        },
+        {
+          "quantity": "50ml/2fl oz",
+          "name": "double cream"
+        },
+        {
+          "quantity": "2 free-range",
+          "name": "eggs"
+        },
+        {
+          "quantity": "25g/1oz",
+          "name": "sugar"
+        },
+        {
+          "quantity": "grated, to taste",
+          "name": "nutmeg"
+        }
+      ],
+      "price": 25
+    },
+    {
+      "id": "52793",
+      "name": "sticky toffee pudding ultimate",
+      "category": "Desert",
+      "steps": [
+        "Stone and chop the dates quite small, put them in a bowl, then pour the boiling water over. Leave for about 30 mins until cool and well-soaked, then mash a bit with a fork. Stir in the vanilla extract. Butter and flour seven mini pudding tins (each about 200ml/7fl oz) and sit them on a baking sheet. Heat oven to 180C/fan 160C/gas 4.",
+        "While the dates are soaking, make the puddings. Mix the flour and bicarbonate of soda together and beat the eggs in a separate bowl. Beat the butter and sugar together in a large bowl for a few mins until slightly creamy (the mixture will be grainy from the sugar). Add the eggs a little at a time, beating well between additions. Beat in the black treacle then, using a large metal spoon, gently fold in one-third of the flour, then half the milk, being careful not to overbeat. Repeat until all the flour and milk is used. Stir the soaked dates into the pudding batter. The mix may look a little curdled at this point and will be like a soft, thick batter. Spoon it evenly between the tins and bake for 20-25 mins, until risen and firm.",
+        "Meanwhile, put the sugar and butter for the sauce in a medium saucepan with half the cream. Bring to the boil over a medium heat, stirring all the time, until the sugar has completely dissolved. Stir in the black treacle, turn up the heat slightly and let the mixture bubble away for 2-3 mins until it is a rich toffee colour, stirring occasionally to make sure it doesn’t burn. Take the pan off the heat and beat in the rest of the cream.",
+        "Remove the puddings from the oven. Leave in the tins for a few mins, then loosen them well from the sides of the tins with a small palette knife before turning them out. You can serve them now with the sauce drizzled over, but they’ll be even stickier if left for a day or two coated in the sauce. To do this, pour about half the sauce into one or two ovenproof serving dishes. Sit the upturned puddings on the sauce, then pour the rest of the sauce over them. Cover with a loose tent of foil so that the sauce doesn’t smudge (no need to chill).",
+        "When ready to serve, heat oven to 180C/fan 160C/gas 4. Warm the puddings through, still covered, for 15-20 mins or until the sauce is bubbling. Serve them on their own, or with cream or custard."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg",
+      "source": "http://www.youtube.com/watch?v=Wytv3bjqJII",
+      "ingredients": [
+        {
+          "quantity": "225g",
+          "name": "Medjool dates"
+        },
+        {
+          "quantity": "175ml Boiling",
+          "name": "water"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "vanilla extract"
+        },
+        {
+          "quantity": "175g",
+          "name": "self-raising flour"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "bicarbonate of soda"
+        },
+        {
+          "quantity": "2",
+          "name": "eggs"
+        },
+        {
+          "quantity": "85g",
+          "name": "butter"
+        },
+        {
+          "quantity": "140g",
+          "name": "demerara sugar"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "black treacle"
+        },
+        {
+          "quantity": "100ml",
+          "name": "milk"
+        },
+        {
+          "quantity": "1 scoop",
+          "name": "ice cream"
+        },
+        {
+          "quantity": "175g",
+          "name": "muscovado sugar"
+        },
+        {
+          "quantity": "50g",
+          "name": "butter"
+        },
+        {
+          "quantity": "225ml",
+          "name": "double cream"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "black treacle"
+        }
+      ],
+      "price": 12
+    },
+    {
+      "id": "52794",
+      "name": "Vegan Chocolate Cake",
+      "category": "Vegan",
+      "steps": [
+        "Simply mix all dry ingredients with wet ingredients and blend altogether. Bake for 45 min on 180 degrees. Decorate with some melted vegan chocolate "
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/qxutws1486978099.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "1 1/4 cup",
+          "name": "self raising flour"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "coco sugar"
+        },
+        {
+          "quantity": "1/3 cup raw",
+          "name": "cacao"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "baking powder"
+        },
+        {
+          "quantity": "2",
+          "name": "flax eggs"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "almond milk"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "vanilla"
+        },
+        {
+          "quantity": "1/2 cup boiling",
+          "name": "water"
+        }
+      ],
+      "price": 13
+    },
+    {
+      "id": "52795",
+      "name": "Chicken Handi",
+      "category": "Chicken",
+      "steps": [
+        "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.",
+        "To the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.",
+        "Then return the fried onion to the pot and stir. Add ginger paste and sauté well.",
+        "Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.",
+        "Next goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.",
+        "Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.",
+        "When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.",
+        "Finally add the cream and give a final mix to combine everything well.",
+        "Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!"
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "1.2 kg",
+          "name": "Chicken"
+        },
+        {
+          "quantity": "5 thinly sliced",
+          "name": "Onion"
+        },
+        {
+          "quantity": "2 finely chopped",
+          "name": "Tomatoes"
+        },
+        {
+          "quantity": "8 cloves chopped",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Ginger paste"
+        },
+        {
+          "quantity": "¼ cup",
+          "name": "Vegetable oil"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "Cumin seeds"
+        },
+        {
+          "quantity": "3 tsp",
+          "name": "Coriander seeds"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Turmeric powder"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Chilli powder"
+        },
+        {
+          "quantity": "2",
+          "name": "Green chilli"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "Yogurt"
+        },
+        {
+          "quantity": "¾ cup",
+          "name": "Cream"
+        },
+        {
+          "quantity": "3 tsp Dried",
+          "name": "fenugreek"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Garam masala"
+        },
+        {
+          "quantity": "To taste",
+          "name": "Salt"
+        }
+      ],
+      "price": 80
+    },
+    {
+      "id": "52796",
+      "name": "Chicken Alfredo Primavera",
+      "category": "Chicken",
+      "steps": [
+        "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat. Season both sides of each chicken breast with seasoned salt and a pinch of pepper. Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through.  While the chicken is cooking, bring a large pot of water to a boil. Season the boiling water with a few generous pinches of kosher salt. Add the pasta and give it a stir. Cook, stirring occasionally, until al dente, about 12 minutes. Reserve 1/2 cup of  pasta water before draining the pasta.  Remove the chicken from the pan and transfer it to a cutting board; allow it to rest. Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken. Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning). Cook, stirring often, until the veggies are tender, about 5 minutes. Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute.  Deglaze the pan with the white wine. Continue to cook until the wine has reduced by half, about 3 minutes. Stir in the milk, heavy cream, and reserved pasta water. Bring the mixture to a gentle boil and allow to simmer and reduce for 2-3 minutes. Turn off the heat and add the Parmesan cheese and cooked pasta. Season with salt and pepper to taste. Garnish with Parmesan cheese and chopped parsley, if desired. "
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "2 tablespoons",
+          "name": "Butter"
+        },
+        {
+          "quantity": "3 tablespoons",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "5 boneless",
+          "name": "Chicken"
+        },
+        {
+          "quantity": "1 teaspoon",
+          "name": "Salt"
+        },
+        {
+          "quantity": "1 cut into 1/2-inch cubes",
+          "name": "Squash"
+        },
+        {
+          "quantity": "1 Head chopped",
+          "name": "Broccoli"
+        },
+        {
+          "quantity": "8-ounce sliced",
+          "name": "mushrooms"
+        },
+        {
+          "quantity": "1 red",
+          "name": "Pepper"
+        },
+        {
+          "quantity": "1 chopped",
+          "name": "onion"
+        },
+        {
+          "quantity": "3 cloves",
+          "name": "garlic"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "red pepper flakes"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "white wine"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "milk"
+        },
+        {
+          "quantity": "1/2 cup",
+          "name": "heavy cream"
+        },
+        {
+          "quantity": "1 cup grated",
+          "name": "Parmesan cheese"
+        },
+        {
+          "quantity": "16 ounces",
+          "name": "bowtie pasta"
+        },
+        {
+          "quantity": "pinch",
+          "name": "Salt"
+        },
+        {
+          "quantity": "pinch ",
+          "name": "Pepper"
+        },
+        {
+          "quantity": "chopped",
+          "name": "Parsley"
+        }
+      ],
+      "price": 54
+    },
+    {
+      "id": "52797",
+      "name": "Spicy North African Potato Salad",
+      "category": "Vegetarian",
+      "steps": [
+        "Cook potatoes - place potatoes in a pot of cold water, and bring to the boil. Boil 20 minutes, or until potatoes are tender. You know they are cooked when you can stick a knife in them and the knife goes straight through.",
+        "Combine harissa spice, olive oil, salt and pepper and lemon juice in a small bowl and whisk until combined.",
+        "Once potatoes are cooked, drain water and roughly chop potatoes in half.",
+        "Add harissa mix and spring onions/green onions to potatoes and stir.",
+        "In a large salad bowl, lay out arugula/rocket.",
+        "Top with potato mix and toss.",
+        "Add fetta, mint and sprinkle over pine nuts.",
+        "Adjust salt and pepper to taste."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "650g/1lb 8 oz",
+          "name": "Small Potatoes"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Harissa Spice"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "olive oil"
+        },
+        {
+          "quantity": "juice of half",
+          "name": "Lemon"
+        },
+        {
+          "quantity": "4",
+          "name": "Spring onions"
+        },
+        {
+          "quantity": "150g/6oz",
+          "name": "Rocket"
+        },
+        {
+          "quantity": "80g/3oz",
+          "name": "Feta"
+        },
+        {
+          "quantity": "20 chopped",
+          "name": "Mint"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "Pine nuts"
+        },
+        {
+          "quantity": "Pinch",
+          "name": "Salt"
+        },
+        {
+          "quantity": "Pinch",
+          "name": "Pepper"
+        }
+      ],
+      "price": 29
+    },
+    {
+      "id": "52802",
+      "name": "Fish pie",
+      "category": "Seafood",
+      "steps": [
+        "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.",
+        "02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.",
+        "03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.",
+        "04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.",
+        "05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "900g",
+          "name": "Floury Potatoes"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "600ml",
+          "name": "Semi-skimmed Milk"
+        },
+        {
+          "quantity": "800g",
+          "name": "White Fish Fillets"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Plain flour"
+        },
+        {
+          "quantity": "Grating",
+          "name": "Nutmeg"
+        },
+        {
+          "quantity": "3 tbsp",
+          "name": "Double Cream"
+        },
+        {
+          "quantity": "200g",
+          "name": "Jerusalem Artichokes"
+        },
+        {
+          "quantity": "1 finely sliced",
+          "name": "Leek"
+        },
+        {
+          "quantity": "200g peeled raw",
+          "name": "Prawns"
+        },
+        {
+          "quantity": "Large handful",
+          "name": "Parsley"
+        },
+        {
+          "quantity": "Handful",
+          "name": "Dill"
+        },
+        {
+          "quantity": "Grated zest of 1",
+          "name": "Lemon"
+        },
+        {
+          "quantity": "25g grated",
+          "name": "Gruyère"
+        },
+        {
+          "quantity": "Juice of 1",
+          "name": "Lemon"
+        }
+      ],
+      "price": 83
+    },
+    {
+      "id": "52803",
+      "name": "Beef Wellington",
+      "category": "Beef",
+      "steps": [
+        "Put the mushrooms into a food processor with some seasoning and pulse to a rough paste. Scrape the paste into a pan and cook over a high heat for about 10 mins, tossing frequently, to cook out the moisture from the mushrooms. Spread out on a plate to cool.",
+        "Heat in a frying pan and add a little olive oil. Season the beef and sear in the hot pan for 30 secs only on each side. (You don't want to cook it at this stage, just colour it). Remove the beef from the pan and leave to cool, then brush all over with the mustard.",
+        "Lay a sheet of cling film on a work surface and arrange the Parma ham slices on it, in slightly overlapping rows. With a palette knife, spread the mushroom paste over the ham, then place the seared beef fillet in the middle. Keeping a tight hold of the cling film from the edge, neatly roll the Parma ham and mushrooms around the beef to form a tight barrel shape. Twist the ends of the cling film to secure. Chill for 15-20 mins to allow the beef to set and keep its shape.",
+        "Roll out the puff pastry on a floured surface to a large rectangle, the thickness of a £1 coin. Remove the cling film from the beef, then lay in the centre. Brush the surrounding pastry with egg yolk. Fold the ends over, the wrap the pastry around the beef, cutting off any excess. Turn over, so the seam is underneath, and place on a baking sheet. Brush over all the pastry with egg and chill for about 15 mins to let the pastry rest.",
+        "Heat the oven to 200C, 400F, gas 6.",
+        "Lightly score the pastry at 1cm intervals and glaze again with beaten egg yolk. Bake for 20 minutes, then lower the oven setting to 180C, 350F, gas 4 and cook for another 15 mins. Allow to rest for 10-15 mins before slicing and serving with the side dishes of your choice. The beef should still be pink in the centre when you serve it."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+      "source": "http://www.goodtoknow.co.uk/recipes/164868/Gordon-Ramsay-s-beef-Wellington",
+      "ingredients": [
+        {
+          "quantity": "400g",
+          "name": "mushrooms"
+        },
+        {
+          "quantity": "1-2tbsp",
+          "name": "English Mustard"
+        },
+        {
+          "quantity": "Dash",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "750g piece",
+          "name": "Beef Fillet"
+        },
+        {
+          "quantity": "6-8 slices",
+          "name": "Parma ham"
+        },
+        {
+          "quantity": "500g",
+          "name": "Puff Pastry"
+        },
+        {
+          "quantity": "Dusting",
+          "name": "Flour"
+        },
+        {
+          "quantity": "2 Beaten ",
+          "name": "Egg Yolks"
+        }
+      ],
+      "price": 99
+    },
+    {
+      "id": "52804",
+      "name": "Poutine",
+      "category": "Miscellaneous",
+      "steps": [
+        "Heat oil in a deep fryer or deep heavy skillet to 365°F (185°C).",
+        "Warm gravy in saucepan or microwave.",
+        "Place the fries into the hot oil, and cook until light brown, about 5 minutes.",
+        "Remove to a paper towel lined plate to drain.",
+        "Place the fries on a serving platter, and sprinkle the cheese over them.",
+        "Ladle gravy over the fries and cheese, and serve immediately."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+      "source": "http://www.food.com/recipe/real-canadian-poutine-113388",
+      "ingredients": [
+        {
+          "quantity": "Dash",
+          "name": "Vegetable Oil"
+        },
+        {
+          "quantity": "1 Can",
+          "name": "Beef Gravy"
+        },
+        {
+          "quantity": "5 thin cut",
+          "name": "Potatoes"
+        },
+        {
+          "quantity": "2 cups",
+          "name": "Cheese Curds"
+        }
+      ],
+      "price": 44
+    },
+    {
+      "id": "52805",
+      "name": "Lamb Biryani",
+      "category": "Lamb",
+      "steps": [
+        "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. ",
+        "",
+        "Deep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.",
+        "",
+        "Wash the rice and soak in water for twenty minutes.",
+        "Meanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.",
+        "Then add the tomatoes and sauté them well till they are cooked and not mushy.",
+        "",
+        "Then to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.",
+        "Add the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.",
+        "",
+        "Now after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles. If the water is not drained totally, heat it by keeping it open.",
+        "",
+        "Take another big pan, add thrice the cup of rice you use, and boil it. When it is boiling high, add the rice, salt and jeera and mix well. After 7 minutes exact or when the rice is 80% done. Switch off and drain the rice.",
+        "",
+        "Now, the layering starts. To the lamb, pat and level it. Add the drained hot rice on the top of it. Garnish with fried onions, ghee, mint, coriander leaves and saffron dissolved in milk.",
+        "",
+        "Cover the dish and bake in a 350f oven for 15 minutes or till the cooked but not mushy. Or cook in the stove medium heat for 12 minutes and lowest heat for 5 minutes. And switch off. Mix and serve hot!",
+        "Notes",
+        "1. If you are cooking in oven, do make sure to cook in a big oven safe pan and cover it tight and then keep in oven for the final step.",
+        "2. You can skip biryani masala if you don’t have and add just garam masala (1 tsp and red chilli powder – 3 tsp instead of 1 tsp)",
+        "3. If it is spicy in the end, squeeze some lemon, it will reduce the heat and enhance the flavors also."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+      "source": "http://www.relishthebite.com/restaurant-style-lamb-biryani/",
+      "ingredients": [
+        {
+          "quantity": "12",
+          "name": "Cashew nuts"
+        },
+        {
+          "quantity": "½ tbsp",
+          "name": "Khus khus"
+        },
+        {
+          "quantity": "½ tbsp",
+          "name": "Cumin seeds"
+        },
+        {
+          "quantity": "3 sliced thinly",
+          "name": "Onions"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "Ginger garlic paste"
+        },
+        {
+          "quantity": "4 whole",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "Leaves",
+          "name": "Mint"
+        },
+        {
+          "quantity": "Leaves",
+          "name": "Cilantro"
+        },
+        {
+          "quantity": "½ tsp dissolved in ½ cup warm milk",
+          "name": "Saffron"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "Ghee"
+        },
+        {
+          "quantity": "2 Cups",
+          "name": "Basmati rice"
+        },
+        {
+          "quantity": "½ cup",
+          "name": "Full fat yogurt"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Cumin Seeds"
+        },
+        {
+          "quantity": "½",
+          "name": "Bay leaf"
+        },
+        {
+          "quantity": "1 thin piece",
+          "name": "Cinnamon"
+        },
+        {
+          "quantity": "3",
+          "name": "Cloves"
+        },
+        {
+          "quantity": "2",
+          "name": "Cardamom"
+        },
+        {
+          "quantity": "1 lb",
+          "name": "Lamb"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Red Chilli powder"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Biryani masala"
+        }
+      ],
+      "price": 57
+    },
+    {
+      "id": "52806",
+      "name": "Tandoori chicken",
+      "category": "Chicken",
+      "steps": [
+        "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.",
+        "Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
+        "Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+      "source": "http://www.bbcgoodfood.com/recipes/1660651/tandoori-chicken",
+      "ingredients": [
+        {
+          "quantity": "2 Juice",
+          "name": "lemons"
+        },
+        {
+          "quantity": "4 tsp",
+          "name": "paprika"
+        },
+        {
+          "quantity": "2 finely chopped",
+          "name": "red onions"
+        },
+        {
+          "quantity": "16 skinnless",
+          "name": "chicken thighs"
+        },
+        {
+          "quantity": "For brushing",
+          "name": "vegetable oil"
+        },
+        {
+          "quantity": "300ml ",
+          "name": "Greek yogurt"
+        },
+        {
+          "quantity": "large piece",
+          "name": "ginger"
+        },
+        {
+          "quantity": "4",
+          "name": "garlic clove"
+        },
+        {
+          "quantity": "¾ tsp",
+          "name": "garam masala"
+        },
+        {
+          "quantity": "¾ tsp",
+          "name": "ground cumin"
+        },
+        {
+          "quantity": "½ tsp",
+          "name": "chilli powder"
+        },
+        {
+          "quantity": "¼ tsp",
+          "name": "turmeric"
+        }
+      ],
+      "price": 16
+    },
+    {
+      "id": "52807",
+      "name": "Baingan Bharta",
+      "category": "Vegetarian",
+      "steps": [
+        "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and",
+        "keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get",
+        "the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly",
+        "cooked. You could also embed some garlic cloves in the baingan and then roast it.",
+        "2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid",
+        "easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools",
+        "down.",
+        "3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step.",
+        "Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red.",
+        "4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted",
+        "aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke.",
+        "5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the",
+        "charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will",
+        "become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is",
+        "cooked, just like the way we do for Dal Tadka.",
+        "6. Peel the skin from the roasted and smoked eggplant.",
+        "7. Chop the cooked eggplant finely or you can even mash it.",
+        "8. In a kadai or pan, heat oil. Then add finely chopped onions and garlic.",
+        "9. Saute the onions till translucent. Don't brown them.",
+        "10. Add chopped green chilies and saute for a minute.",
+        "11. Add the chopped tomatoes and mix it well.",
+        "12. Bhuno (saute) the tomatoes till the oil starts separating from the mixture.",
+        "13. Now add the red chili powder. Stir and mix well.",
+        "14. Add the chopped cooked baingan.",
+        "15. Stir and mix the chopped baingan very well with the onion­tomato masala mixture.",
+        "16. Season with salt. Stir and saute for some more 4 to 5 minutes more.",
+        "17. Finally stir in the coriander leaves with the baingan bharta or garnish it with them. Serve Baingan Bharta with",
+        "phulkas, rotis or chapatis. It goes well even with bread, toasted or grilled bread and plain rice or jeera rice."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "source": "http://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/",
+      "ingredients": [
+        {
+          "quantity": "1 large",
+          "name": "Aubergine"
+        },
+        {
+          "quantity": "½ cup ",
+          "name": "Onion"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "Tomatoes"
+        },
+        {
+          "quantity": "6 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "1",
+          "name": "Green Chili"
+        },
+        {
+          "quantity": "¼ teaspoon",
+          "name": "Red Chili Powder"
+        },
+        {
+          "quantity": "1.5 tablespoon",
+          "name": "Oil"
+        },
+        {
+          "quantity": "1 tablespoon chopped",
+          "name": "Coriander Leaves"
+        },
+        {
+          "quantity": "as required",
+          "name": "salt"
+        }
+      ],
+      "price": 79
+    },
+    {
+      "id": "52808",
+      "name": "Lamb Rogan josh",
+      "category": "Lamb",
+      "steps": [
+        "",
+        "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.",
+        "Tip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.",
+        "Cover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "source": "http://www.bbcgoodfood.com/recipes/9643/onepan-rogan-josh",
+      "ingredients": [
+        {
+          "quantity": "2 quartered",
+          "name": "Onion"
+        },
+        {
+          "quantity": "4 tbsp",
+          "name": "Sunflower Oil"
+        },
+        {
+          "quantity": "4 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "Thumb sized peeled and very finely grated",
+          "name": "Ginger"
+        },
+        {
+          "quantity": "2 tbsp",
+          "name": "Madras Paste"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "Paprika"
+        },
+        {
+          "quantity": "1",
+          "name": "cinnamon stick"
+        },
+        {
+          "quantity": "6 bashed to break shells",
+          "name": "Cardamom"
+        },
+        {
+          "quantity": "4",
+          "name": "Clove"
+        },
+        {
+          "quantity": "2",
+          "name": "Bay Leaf"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Tomato Purée"
+        },
+        {
+          "quantity": "1kg cubed",
+          "name": "Lamb"
+        },
+        {
+          "quantity": "150ml",
+          "name": "Greek yogurt"
+        },
+        {
+          "quantity": "Garnish chopped ",
+          "name": "Coriander"
+        }
+      ],
+      "price": 50
+    },
+    {
+      "id": "52809",
+      "name": "Recheado masala fish",
+      "category": "Seafood",
+      "steps": [
+        "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.",
+        "Add sugar and salt.",
+        "Also add turmeric powder.",
+        "Combine all nicely and marinate for 35-40 mins.",
+        "Grind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.",
+        "Rinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity.",
+        "Now stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.",
+        "Place oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.",
+        "Fry until golden brown from both sides",
+        "Serve the recheado mackerels hot with salad, lime wedges, rice and curry.",
+        "Notes",
+        "1. Ensure the masala paste is thick else the result won't be good.",
+        "2. If you aren't able to find kashmiri chilies then use bedgi chilies or kashmiri red chili powder.",
+        "3. You could use white vinegar or coconut vinegar.",
+        "4. Any left over paste could be stored in the fridge for future use.",
+        "5. Cinnamon could be avoided as it's a strong spice used generally for meat or chicken."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "source": "http://www.flavorsofmumbai.com/fish-recheado-masala-recipe/",
+      "ingredients": [
+        {
+          "quantity": "4",
+          "name": "Mackerel"
+        },
+        {
+          "quantity": "18 dried",
+          "name": "Red Chili"
+        },
+        {
+          "quantity": "1 inch",
+          "name": "Ginger"
+        },
+        {
+          "quantity": "8 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "1.5 tsp",
+          "name": "Pepper"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Cumin"
+        },
+        {
+          "quantity": "½ tsp",
+          "name": "Turmeric"
+        },
+        {
+          "quantity": "support@reading-school.co.uk",
+          "name": "Cinnamon stick"
+        },
+        {
+          "quantity": "4",
+          "name": "Clove"
+        },
+        {
+          "quantity": "2",
+          "name": "Cardamom"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "Sugar"
+        },
+        {
+          "quantity": "2 marble sized",
+          "name": "Tamarind ball"
+        },
+        {
+          "quantity": "2.5 tbsp",
+          "name": "Vinegar"
+        },
+        {
+          "quantity": "for frying",
+          "name": "Oil"
+        }
+      ],
+      "price": 91
+    },
+    {
+      "id": "52810",
+      "name": "Osso Buco alla Milanese",
+      "category": "Miscellaneous",
+      "steps": [
+        "Heat the oven to 300 degrees.",
+        "Dredging the shanks: pour the flour into a shallow dish (a pie plate works nicely). Season the veal shanks on all sides with salt and pepper. One at a time, roll the shanks around in the flour coat, and shake and pat the shank to remove any excuses flour. Discard the remaining flour.",
+        "Browning the shanks: put the oil and 1 tablespoon of the butter in a wide Dutch oven or heavy braising pot (6 to 7 quart) and heat over medium-high heat. When the butter has melted and the oil is shimmering, lower the shanks into the pot, flat side down; if the shanks won’t fit without touching one another, do this in batches. Brown the shanks, turning once with tongs, until both flat sides are well caramelized, about 5 minutes per side. If the butter-oil mixture starts to burn, lower the heat just a bit. Transfer the shanks to a large platter or tray and set aside.",
+        "The aromatics: pour off and discard the fat from the pot. Wipe out any burnt bits with a damp paper towel, being careful not to remove any delicious little caramelized bits. Ad the remaining 2 tablespoons butter to the pot and melt it over medium heat. When the butter has stopped foaming, add the onion, carrot, celery, and fennel. Season with salt and pepper, stir, and cook the vegetables until they begin to soften but do not brown, about 6 minutes. Stir in the garlic, orange zest, marjoram, and bay leaf, and stew for another minute or two.",
+        "The braising liquid: add the wine, increase the heat to high, and bring to a boil. Boil, stirring occasionally, to reduce the wine by about half, 5 minutes. Add the stock and tomatoes, with their juice, and boil again to reduce the liquid to about 1 cup total, about 10 minutes.",
+        "The braise: Place the shanks in the pot so that they are sitting with the exposed bone facing up, and pour over any juices that accumulated as they sat. Cover with parchment paper, pressing down so the parchment nearly touches the veal and the edges hang over the sides of the pot by about an inch. Cover tightly with the lid, and slide into the lower part of the oven to braise at a gentle simmer. Check the pot after the first 15 minutes, and if the liquid is simmering too aggressively, lower the oven heat by 10 or 15 degrees. Continue braising, turning the shanks and spooning some pan juices over the top after the first 40 minutes, until the meat is completely tender and pulling away from the bone, about 2 hours.",
+        "The gremolata: While the shanks are braising, stir together the garlic, parsley, and lemon zest in a small bowl. Cover with plastic wrap and set aside in a cool place (or the refrigerator, if your kitchen is very warm.)",
+        "The finish: When the veal is fork-tender and falling away from the bone, remove the lid and sprinkle over half of the gremolata. Return the veal to the oven, uncovered, for another 15 minutes to caramelize it some.",
+        "Using a slotted spatula or spoon, carefully lift the shanks from the braising liquid, doing your best to keep them intact. The shanks will be very tender and threatening to fall into pieces, and the marrow will be wobbly inside the bones, so this can be a bit tricky. But if they do break apart, don’t worry, the flavor won’t suffer at all. Arrange the shanks on a serving platter or other large plate, without stacking, and cover with foil to keep warm.",
+        "Finishing the sauce: Set the braising pot on top of the stove and evaluate the sauce: if there is a visible layer of fat floating on the surface, use a large spoon to skim it off and discard it. Taste the sauce for concentration of flavor. If it tastes a bit weak or flat, bring it to a boil over high heat, and boil to reduce the volume and intensify the flavor for 5 to 10 minutes. Taste again for salt and pepper. If the sauce wants more zip, stir in a teaspoon or two of the remaining gremolata.",
+        "Portioning the veal shanks: if the shanks are reasonably sized, serve one per person. If the shanks are gargantuan or you’re dealing with modest appetites, pull apart the larger shanks, separating them at their natural seams, and serve smaller amounts. Be sure to give the marrow bones to whomever prizes them most.",
+        "Serving: Arrange the veal shanks on warm dinner plates accompanied by the risotto, if serving. Just before carrying the plates to the table, sprinkle on the remaining gremolata and then spoon over a generous amount of sauce – the contact with the hot liquid will aromatize the gremolata and perk up everyone’s appetite with the whiff of garlic and lemon."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg",
+      "source": "http://www.cookstr.com/Meat/Osso-Buco-alla-Milanese",
+      "ingredients": [
+        {
+          "quantity": "4 meaty shanks",
+          "name": "Veal"
+        },
+        {
+          "quantity": "½ cup",
+          "name": "Flour"
+        },
+        {
+          "quantity": "2 tablespoons ",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "3 tablespoons",
+          "name": "Butter"
+        },
+        {
+          "quantity": "1 medium chopped into ½-inch pieces",
+          "name": "Onion"
+        },
+        {
+          "quantity": "1 chopped into ½-inch pieces",
+          "name": "Carrot"
+        },
+        {
+          "quantity": "1 chopped into ½-inch pieces",
+          "name": "Celery"
+        },
+        {
+          "quantity": "1 bulb chopped into ½-inch pieces",
+          "name": "Fennel"
+        },
+        {
+          "quantity": "3 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "2 strips",
+          "name": "Orange Zest"
+        },
+        {
+          "quantity": "1 ½ teaspoons",
+          "name": "Marjoram"
+        },
+        {
+          "quantity": "1",
+          "name": "Bay Leaf"
+        },
+        {
+          "quantity": "1 cup",
+          "name": "Dry White Wine"
+        },
+        {
+          "quantity": "½ cup ",
+          "name": "Chicken Stock"
+        },
+        {
+          "quantity": "1 cup chopped with juice",
+          "name": "Tomatoes"
+        },
+        {
+          "quantity": "2 tablespoons chopped",
+          "name": "Parsley"
+        },
+        {
+          "quantity": "1 teaspoon minced",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "1 teaspoon grated ",
+          "name": "Lemon Zest"
+        }
+      ],
+      "price": 44
+    },
+    {
+      "id": "52811",
+      "name": "Ribollita",
+      "category": "Vegetarian",
+      "steps": [
+        "Put 2 tablespoons of the oil in a large pot over medium heat. When it’s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes.",
+        "Heat the oven to 500 degrees. Drain the beans; if they’re canned, rinse them as well. Add them to the pot along with tomatoes and their juices and stock, rosemary and thyme. Bring to a boil, then reduce heat so the soup bubbles steadily; cover and cook, stirring once or twice to break up the tomatoes, until the flavors meld, 15 to 20 minutes.",
+        "Fish out and discard rosemary and thyme stems, if you like, and stir in kale. Taste and adjust seasoning. Lay bread slices on top of the stew so they cover the top and overlap as little as possible. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan.",
+        "Put the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. (If your pot fits under the broiler, you can also brown the top there.) Divide the soup and bread among 4 bowls and serve."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+      "source": "http://cooking.nytimes.com/recipes/1016052-ribollita",
+      "ingredients": [
+        {
+          "quantity": "5 tablespoons",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "1 chopped",
+          "name": "Onion"
+        },
+        {
+          "quantity": "1 chopped",
+          "name": "Carrot"
+        },
+        {
+          "quantity": "1 stalk chopped",
+          "name": "Celery"
+        },
+        {
+          "quantity": "1 tablespoon minced",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "2 cups",
+          "name": "Cannellini Beans"
+        },
+        {
+          "quantity": "1",
+          "name": "Canned tomatoes"
+        },
+        {
+          "quantity": "4 cups",
+          "name": "Water"
+        },
+        {
+          "quantity": "1 fresh sprig",
+          "name": "Rosemary"
+        },
+        {
+          "quantity": "1 fresh sprig",
+          "name": "Thyme"
+        },
+        {
+          "quantity": "1 pound chopped",
+          "name": "Kale"
+        },
+        {
+          "quantity": "4 thick slices",
+          "name": "Wholegrain Bread"
+        },
+        {
+          "quantity": "1 thinly sliced",
+          "name": "Red Onion"
+        },
+        {
+          "quantity": "½ cup freshly grated",
+          "name": "Parmesan"
+        }
+      ],
+      "price": 52
+    },
+    {
+      "id": "52812",
+      "name": "Beef Brisket Pot Roast",
+      "category": "Beef",
+      "steps": [
+        "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.",
+        "Using a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.",
+        "Salt the brisket well and let it sit at room temperature for 30 minutes.",
+        " ",
+        "2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.",
+        "Pat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)",
+        "Turn the brisket over and cook for a few minutes more to brown the other side.",
+        "",
+        "3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.",
+        "Add the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.",
+        " ",
+        "4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.",
+        "Move the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.",
+        "Cover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.",
+        " ",
+        "5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.",
+        "6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.",
+        "7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.",
+        "To make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.",
+        "8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.",
+        "Serve with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+      "source": "http://www.simplyrecipes.com/recipes/beef_brisket_pot_roast/",
+      "ingredients": [
+        {
+          "quantity": "4-5 pound",
+          "name": "Beef Brisket"
+        },
+        {
+          "quantity": "Dash",
+          "name": "Salt"
+        },
+        {
+          "quantity": "3",
+          "name": "Onion"
+        },
+        {
+          "quantity": "5 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "1 Sprig",
+          "name": "Thyme"
+        },
+        {
+          "quantity": "1 sprig ",
+          "name": "Rosemary"
+        },
+        {
+          "quantity": "4",
+          "name": "Bay Leaves"
+        },
+        {
+          "quantity": "2 cups",
+          "name": "beef stock"
+        },
+        {
+          "quantity": "3 Large",
+          "name": "Carrots"
+        },
+        {
+          "quantity": "1 Tbsp",
+          "name": "Mustard"
+        },
+        {
+          "quantity": "4 Mashed",
+          "name": "Potatoes"
+        }
+      ],
+      "price": 22
+    },
+    {
+      "id": "52813",
+      "name": "Kentucky Fried Chicken",
+      "category": "Chicken",
+      "steps": [
+        "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.",
+        "Combine spice mix with flour, brown sugar and salt.",
+        "Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.",
+        "Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit.",
+        "Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.",
+        "Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+      "source": "http://www.tablespoon.com/recipes/copycat-kfc-original-style-chicken/97c93d14-9d8c-4bc7-96dc-1e0b37e4fcaa",
+      "ingredients": [
+        {
+          "quantity": "1 whole",
+          "name": "Chicken"
+        },
+        {
+          "quantity": "2 quarts neutral frying",
+          "name": "Oil"
+        },
+        {
+          "quantity": "1",
+          "name": "Egg White"
+        },
+        {
+          "quantity": "1 1/2 cups ",
+          "name": "Flour"
+        },
+        {
+          "quantity": "1 tablespoon",
+          "name": "Brown Sugar"
+        },
+        {
+          "quantity": "1 tablespoon",
+          "name": "Salt"
+        },
+        {
+          "quantity": "1 tablespoon",
+          "name": "paprika"
+        },
+        {
+          "quantity": "2 teaspoons",
+          "name": "onion salt"
+        },
+        {
+          "quantity": "1 teaspoon",
+          "name": "chili powder"
+        },
+        {
+          "quantity": "1 teaspoon",
+          "name": "black pepper"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "celery salt"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "sage"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "garlic powder"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "allspice"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "oregano"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "basil"
+        },
+        {
+          "quantity": "1/2 teaspoon",
+          "name": "marjoram"
+        }
+      ],
+      "price": 99
+    },
+    {
+      "id": "52814",
+      "name": "Thai Green Curry",
+      "category": "Chicken",
+      "steps": [
+        "Put the potatoes in a pan of boiling water and cook for 5 minutes. Throw in the beans and cook for a further 3 minutes, by which time both should be just tender but not too soft. Drain and put to one side.",
+        "In a wok or large frying pan, heat the oil until very hot, then drop in the garlic and cook until golden, this should take only a few seconds. Don’t let it go very dark or it will spoil the taste. Spoon in the curry paste and stir it around for a few seconds to begin to cook the spices and release all the flavours. Next, pour in the coconut milk and let it come to a bubble.",
+        "Stir in the fish sauce and sugar, then the pieces of chicken. Turn the heat down to a simmer and cook, covered, for about 8 minutes until the chicken is cooked.",
+        "Tip in the potatoes and beans and let them warm through in the hot coconut milk, then add a lovely citrussy flavour by stirring in the shredded lime leaves (or lime zest). The basil leaves go in next, but only leave them briefly on the heat or they will quickly lose their brightness. Scatter with the lime garnish and serve immediately with boiled rice."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+      "source": "http://www.bbcgoodfood.com/recipes/3235/thai-green-chicken-curry",
+      "ingredients": [
+        {
+          "quantity": "225g new",
+          "name": "potatoes"
+        },
+        {
+          "quantity": "100g ",
+          "name": "green beans"
+        },
+        {
+          "quantity": "1 tbsp",
+          "name": "sunflower oil"
+        },
+        {
+          "quantity": "1 clove",
+          "name": "garlic"
+        },
+        {
+          "quantity": "4 tsp ",
+          "name": "Thai green curry paste"
+        },
+        {
+          "quantity": "400ml",
+          "name": "coconut milk"
+        },
+        {
+          "quantity": "2 tsp",
+          "name": "Thai fish sauce"
+        },
+        {
+          "quantity": "1 tsp",
+          "name": "Sugar"
+        },
+        {
+          "quantity": "450g boneless",
+          "name": "Chicken"
+        },
+        {
+          "quantity": "2 fresh kaffir leaves",
+          "name": "lime"
+        },
+        {
+          "quantity": "handfull",
+          "name": "basil"
+        },
+        {
+          "quantity": "Boiled",
+          "name": "Rice"
+        }
+      ],
+      "price": 70
+    },
+    {
+      "id": "52815",
+      "name": "French Lentils With Garlic and Thyme",
+      "category": "Miscellaneous",
+      "steps": [
+        "Place a large saucepan over medium heat and add oil. When hot, add chopped vegetables and sauté until softened, 5 to 10 minutes.",
+        "Add 6 cups water, lentils, thyme, bay leaves and salt. Bring to a boil, then reduce to a fast simmer.",
+        "Simmer lentils until they are tender and have absorbed most of the water, 20 to 25 minutes. If necessary, drain any excess water after lentils have cooked. Serve immediately, or allow them to cool and reheat later.",
+        "For a fuller taste, use some chicken stock and reduce the water by the same amount."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+      "source": "",
+      "ingredients": [
+        {
+          "quantity": "3 tablespoons",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "1",
+          "name": "Onion"
+        },
+        {
+          "quantity": "2 cloves",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "1",
+          "name": "Carrot"
+        },
+        {
+          "quantity": "2 1/4 cups",
+          "name": "French Lentils"
+        },
+        {
+          "quantity": "1 teaspoon",
+          "name": "Thyme"
+        },
+        {
+          "quantity": "3",
+          "name": "Bay Leaf"
+        },
+        {
+          "quantity": "1 tablespoon",
+          "name": "Salt"
+        },
+        {
+          "quantity": "2 sticks",
+          "name": "Celery"
+        }
+      ],
+      "price": 96
+    },
+    {
+      "id": "52816",
+      "name": "Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+      "category": "Vegetarian",
+      "steps": [
+        "",
+        "For the Lentils: Adjust oven rack to center position and preheat oven to 450°F to prepare for roasting eggplant. Meanwhile, heat 2 tablespoons olive oil in a medium saucepan over medium heat until shimmering. Add carrots, celery, and onion and cook, stirring, until softened but not browned, about 4 minutes. Add garlic and cook, stirring, until fragrant, about 30 seconds. Add lentils, bay leaves, stock or water, and a pinch of salt. Bring to a simmer, cover with the lid partially ajar, and cook until lentils are tender, about 30 minutes. (Top up with water if lentils are at any point not fully submerged.) Remove lid, stir in vinegar, and reduce until lentils are moist but not soupy. Season to taste with salt and pepper, cover, and keep warm until ready to serve.",
+        "",
+        "2.",
+        "For the Eggplant: While lentils cook, cut each eggplant in half. Score flesh with the tip of a paring knife in a cross-hatch pattern at 1-inch intervals. Transfer to a foil-lined rimmed baking sheet, cut side up, and brush each eggplant half with 1 tablespoon oil, letting each brushstroke be fully absorbed before brushing with more. Season with salt and pepper. Place a rosemary sprig on top of each one. Transfer to oven and roast until completely tender and well charred, 25 to 35 minutes. Remove from oven and discard rosemary.",
+        "",
+        "3.",
+        "To Serve: Heat 2 tablespoons olive oil and pine nuts in a medium skillet set over medium heat. Cook, tossing nuts frequently, until golden brown and aromatic, about 4 minutes. Transfer to a bowl to halt cooking. Stir half of parsley and rosemary into lentils and transfer to a serving platter. Arrange eggplant halves on top. Spread a few tablespoons of tahini sauce over each eggplant half and sprinkle with pine nuts. Sprinkle with remaining parsley and rosemary, drizzle with additional olive oil, and serve."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/ysqrus1487425681.jpg",
+      "source": "http://www.seriouseats.com/recipes/2016/03/roasted-eggplant-tahini-pine-nut-lentil-vegan-experience-recipe.html",
+      "ingredients": [
+        {
+          "quantity": "2 tablespoons",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "2 small cut into chunks",
+          "name": "Carrots"
+        },
+        {
+          "quantity": "2 small stalks",
+          "name": "Celery"
+        },
+        {
+          "quantity": "1 medium finely diced",
+          "name": "Onion"
+        },
+        {
+          "quantity": "6 medium cloves sliced",
+          "name": "Garlic"
+        },
+        {
+          "quantity": "12 ounces (340g)",
+          "name": "Brown Lentils"
+        },
+        {
+          "quantity": "2",
+          "name": "Bay Leaves"
+        },
+        {
+          "quantity": "4 cups",
+          "name": "Water"
+        },
+        {
+          "quantity": "Pinch",
+          "name": "Salt"
+        },
+        {
+          "quantity": "2 teaspoons (10ml)",
+          "name": "Apple Cider Vinegar"
+        },
+        {
+          "quantity": "Pinch",
+          "name": "Pepper"
+        },
+        {
+          "quantity": "2 large",
+          "name": "Egg Plants"
+        },
+        {
+          "quantity": "4 sprigs",
+          "name": "Rosemary"
+        },
+        {
+          "quantity": "1/4 cup ",
+          "name": "Pine nuts"
+        },
+        {
+          "quantity": "2 tablespoons",
+          "name": "Parsley"
+        }
+      ],
+      "price": 30
+    },
+    {
+      "id": "52817",
+      "name": "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+      "category": "Vegetarian",
+      "steps": [
+        "Heat the oil in a 12-inch skillet over high heat until shimmering. Add the eggplants and lower the heat to medium. Season with salt and pepper as you rotate the eggplants, browning them on all sides. Continue to cook, turning regularly, until a fork inserted into the eggplant meets no resistance (you may have to stand them up on their fat end to finish cooking the thickest parts), about 20 minutes, lowering the heat and sprinkling water into the pan as necessary if the eggplants threaten to burn or smoke excessively.",
+        "",
+        "2.",
+        "Mix the harissa, chickpeas and tomatoes together, then add to the eggplants. Cook until the tomatoes have blistered and broken down, about 5 minutes more. Season with salt and pepper and add water as necessary to thin to a saucy consistency. Meanwhile, combine the yogurt and cumin in a serving bowl. Season with salt and pepper.",
+        "",
+        "3.",
+        "Top the eggplant mixture with the parsley, drizzle with more extra virgin olive oil, and serve with the yogurt on the side."
+      ],
+      "imageURL": "http://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg",
+      "source": "http://www.seriouseats.com/2014/09/one-pot-wonders-stovetop-eggplant-harissa-chickpeas-cumin.html",
+      "ingredients": [
+        {
+          "quantity": "4 tablespoons",
+          "name": "Olive Oil"
+        },
+        {
+          "quantity": "6 small",
+          "name": "Egg Plants"
+        },
+        {
+          "quantity": "½ tablespoon",
+          "name": "Harissa"
+        },
+        {
+          "quantity": "1 can",
+          "name": "Chickpeas"
+        },
+        {
+          "quantity": "2 cups halved",
+          "name": "Cherry Tomatoes"
+        },
+        {
+          "quantity": "1 1/2 cups",
+          "name": "Greek yogurt"
+        },
+        {
+          "quantity": "1 tablespoon",
+          "name": "Ground cumin"
+        },
+        {
+          "quantity": "½ cup ",
+          "name": "Parsley"
+        }
+      ],
+      "price": 53
+    }
+  ],
+  "wine": [
+    {
+      "_id": 1,
+      "name": "Chateau de saint cosme",
+      "year": "2009",
+      "grapes": "Grenache / Syrah",
+      "country": "France",
+      "region": "Southern Rhone",
+      "description": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/saint_cosme.jpg",
+      "price": 86
+    },
+    {
+      "_id": 2,
+      "name": "Lan rioja crianza",
+      "year": "2006",
+      "grapes": "Tempranillo",
+      "country": "Spain",
+      "region": "Rioja",
+      "description": "A resurgence of interest in boutique vineyards has opened the door for this excellent foray into the dessert wine market. Light and bouncy, with a hint of black truffle, this wine will not fail to tickle the taste buds.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/lan_rioja.jpg",
+      "price": 89
+    },
+    {
+      "_id": 3,
+      "name": "Margerum sybarite",
+      "year": "2010",
+      "grapes": "Sauvignon Blanc",
+      "country": "USA",
+      "region": "California Central Cosat",
+      "description": "The cache of a fine Cabernet in ones wine cellar can now be replaced with a childishly playful wine bubbling over with tempting tastes of black cherry and licorice. This is a taste sure to transport you back in time.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/margerum.jpg",
+      "price": 85
+    },
+    {
+      "_id": 4,
+      "name": "Owen roe \"ex umbris\"",
+      "year": "2009",
+      "grapes": "Syrah",
+      "country": "USA",
+      "region": "Washington",
+      "description": "A one-two punch of black pepper and jalapeno will send your senses reeling, as the orange essence snaps you back to reality. Don't miss this award-winning taste sensation.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/ex_umbris.jpg",
+      "price": 39
+    },
+    {
+      "_id": 5,
+      "name": "Rex hill",
+      "year": "2009",
+      "grapes": "Pinot Noir",
+      "country": "USA",
+      "region": "Oregon",
+      "description": "One cannot doubt that this will be the wine served at the Hollywood award shows, because it has undeniable star power. Be the first to catch the debut that everyone will be talking about tomorrow.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/rex_hill.jpg",
+      "price": 2
+    },
+    {
+      "_id": 6,
+      "name": "Viticcio classico riserva",
+      "year": "2007",
+      "grapes": "Sangiovese Merlot",
+      "country": "Italy",
+      "region": "Tuscany",
+      "description": "Though soft and rounded in texture, the body of this wine is full and rich and oh-so-appealing. This delivery is even more impressive when one takes note of the tender tannins that leave the taste buds wholly satisfied.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/viticcio.jpg",
+      "price": 27
+    },
+    {
+      "_id": 7,
+      "name": "Chateau le doyenne",
+      "year": "2005",
+      "grapes": "Merlot",
+      "country": "France",
+      "region": "Bordeaux",
+      "description": "Though dense and chewy, this wine does not overpower with its finely balanced depth and structure. It is a truly luxurious experience for the senses.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/le_doyenne.jpg",
+      "price": 22
+    },
+    {
+      "_id": 8,
+      "name": "Domaine du bouscat",
+      "year": "2009",
+      "grapes": "Merlot",
+      "country": "France",
+      "region": "Bordeaux",
+      "description": "The light golden color of this wine belies the bright flavor it holds. A true summer wine, it begs for a picnic lunch in a sun-soaked vineyard.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/bouscat.jpg",
+      "price": 87
+    },
+    {
+      "_id": 9,
+      "name": "Block nine",
+      "year": "2009",
+      "grapes": "Pinot Noir",
+      "country": "USA",
+      "region": "California",
+      "description": "With hints of ginger and spice, this wine makes an excellent complement to light appetizer and dessert fare for a holiday gathering.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/block_nine.jpg",
+      "price": 8
+    },
+    {
+      "_id": 10,
+      "name": "Domaine serene",
+      "year": "2007",
+      "grapes": "Pinot Noir",
+      "country": "USA",
+      "region": "Oregon",
+      "description": "Though subtle in its complexities, this wine is sure to please a wide range of enthusiasts. Notes of pomegranate will delight as the nutty finish completes the picture of a fine sipping experience.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/domaine_serene.jpg",
+      "price": 68
+    },
+    {
+      "_id": 11,
+      "name": "Bodega lurton",
+      "year": "2011",
+      "grapes": "Pinot Gris",
+      "country": "Argentina",
+      "region": "Mendoza",
+      "description": "Solid notes of black currant blended with a light citrus make this wine an easy pour for varied palates.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/bodega_lurton.jpg",
+      "price": 9
+    },
+    {
+      "_id": 12,
+      "name": "Les morizottes",
+      "year": "2009",
+      "grapes": "Chardonnay",
+      "country": "France",
+      "region": "Burgundy",
+      "description": "Breaking the mold of the classics, this offering will surprise and undoubtedly get tongues wagging with the hints of coffee and tobacco in perfect alignment with more traditional notes. Sure to please the late-night crowd with the slight jolt of adrenaline it brings.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/morizottes.jpg",
+      "price": 69
+    },
+    {
+      "_id": 13,
+      "name": "Argiano non confunditur",
+      "year": "2009",
+      "grapes": "Cabernet Sauvignon",
+      "country": "Italy",
+      "region": "Tuscany",
+      "description": "Like a symphony, this cabernet has a wide range of notes that will delight the taste buds and linger in the mind.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/argiano.jpg",
+      "price": 91
+    },
+    {
+      "_id": 14,
+      "name": "Dinastia vivanco ",
+      "year": "2008",
+      "grapes": "Tempranillo",
+      "country": "Spain",
+      "region": "Rioja",
+      "description": "Whether enjoying a fine cigar or a nicotine patch, don't pass up a taste of this hearty Rioja, both smooth and robust.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/dinastia.jpg",
+      "price": 31
+    },
+    {
+      "_id": 15,
+      "name": "Petalos bierzo",
+      "year": "2009",
+      "grapes": "Mencia",
+      "country": "Spain",
+      "region": "Castilla y Leon",
+      "description": "For the first time, a blend of grapes from two different region's have been combined in an outrageous explosion of flavor that cannot be missed.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/petalos.jpg",
+      "price": 48
+    },
+    {
+      "_id": 16,
+      "name": "Shafer red shoulder ranch",
+      "year": "2009",
+      "grapes": "Chardonnay",
+      "country": "USA",
+      "region": "California",
+      "description": "Keep an eye out for this winery in coming year's, as their chardonnays have reached the peak of perfection.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/shafer.jpg",
+      "price": 39
+    },
+    {
+      "_id": 17,
+      "name": "Ponzi",
+      "year": "2010",
+      "grapes": "Pinot Gris",
+      "country": "USA",
+      "region": "Oregon",
+      "description": "For those who appreciate the simpler pleasures in life, this light pinot grigio will blend perfectly with a light meal or as an after dinner drink.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/ponzi.jpg",
+      "price": 21
+    },
+    {
+      "_id": 18,
+      "name": "Hugel",
+      "year": "2010",
+      "grapes": "Pinot Gris",
+      "country": "France",
+      "region": "Alsace",
+      "description": "Fresh as new buds on a spring vine, this dewy offering is the finest of the new generation of pinot grigios.  Enjoy it with a friend and a crown of flowers for the ultimate wine tasting experience.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/hugel.jpg",
+      "price": 7
+    },
+    {
+      "_id": 19,
+      "name": "Four vines maverick",
+      "year": "2011",
+      "grapes": "Zinfandel",
+      "country": "USA",
+      "region": "California",
+      "description": "o yourself a favor and have a bottle (or two) of this fine zinfandel on hand for your next romantic outing.  The only thing that can make this fine choice better is the company you share it with.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/fourvines.jpg",
+      "price": 34
+    },
+    {
+      "_id": 20,
+      "name": "Quivira dry creek valley",
+      "year": "2009",
+      "grapes": "Zinfandel",
+      "country": "USA",
+      "region": "California",
+      "description": "Rarely do you find a zinfandel this oakey from the Sonoma region. The vintners have gone to extremes to duplicate the classic flavors that brought high praise in the early '90s.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/quivira.jpg",
+      "price": 22
+    },
+    {
+      "_id": 21,
+      "name": "Calera 35th anniversary",
+      "year": "2010",
+      "grapes": "Pinot Noir",
+      "country": "USA",
+      "region": "California",
+      "description": "Fruity and bouncy, with a hint of spice, this pinot noir is an excellent candidate for best newcomer from Napa this year.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/calera.jpg",
+      "price": 54
+    },
+    {
+      "_id": 22,
+      "name": "Chateau caronne ste gemme",
+      "year": "2010",
+      "grapes": "Cabernet Sauvignon",
+      "country": "France",
+      "region": "Bordeaux",
+      "description": "Find a sommelier with a taste for chocolate and he's guaranteed to have this cabernet on his must-have list.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/caronne.jpg",
+      "price": 12
+    },
+    {
+      "_id": 22,
+      "name": "Momo marlborough",
+      "year": "2010",
+      "grapes": "Sauvignon Blanc",
+      "country": "New Zealand",
+      "region": "South Island",
+      "description": "Best served chilled with melon or a nice salty prosciutto, this sauvignon blanc is a staple in every Italian kitchen, if not on their wine list.  Request the best, and you just may get it.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/momo.jpg",
+      "price": 19
+    },
+    {
+      "_id": 23,
+      "name": "Waterbrook",
+      "year": "2009",
+      "grapes": "Merlot",
+      "country": "USA",
+      "region": "Washington",
+      "description": "Legend has it the gods didn't share their ambrosia with mere mortals.  This merlot may be the closest we've ever come to a taste of heaven.",
+      "imageURL": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/waterbrook.jpg",
+      "price": 80
+    }
+  ]
+}

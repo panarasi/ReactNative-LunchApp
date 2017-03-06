@@ -1,0 +1,46 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Node Debug",
+      "program": "${workspaceRoot}/.vscode/debugger.js",
+      "cwd": "${workspaceRoot}",
+      "sourceMaps": true,
+      "outFiles": [
+        "${workspaceRoot}/.vscode/**/*.*.bundle"
+      ],
+      "trace": "sm"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Chakra Debug",
+      "program": "${workspaceRoot}/.vscode/debugger.js",
+      "cwd": "${workspaceRoot}",
+      "sourceMaps": true,
+      "outFiles": [
+        "${workspaceRoot}/.vscode/**/*.*.bundle"
+      ],
+      "runtimeExecutable": "${workspaceRoot}/../node-chakra/bin/node"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "TTD Debug",
+      "program": "${workspaceRoot}/.vscode/debugger.js",
+      "cwd": "${workspaceRoot}",
+      "sourceMaps": true,
+      "outFiles": [
+        "${workspaceRoot}/.vscode/*.*.bundle"
+      ],
+      "runtimeExecutable": "${workspaceRoot}/../node-chakra/bin/node",
+      "runtimeArgs": [
+        "--break-first",
+        "--replay-debug=.vscode/logs"
+      ],
+      "trace": "sm"
+    }
+  ]
+}

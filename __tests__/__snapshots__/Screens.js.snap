@@ -1,0 +1,1903 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Screen renders Food details correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FAFAFA",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "marginTop": -50,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          Object {
+            "height": 620,
+            "transform": Array [
+              Object {
+                "translateY": 0,
+              },
+            ],
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 370,
+            "justifyContent": "center",
+            "left": 0,
+            "paddingTop": 30,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      >
+        <Image
+          resizeMode="cover"
+          source={
+            Object {
+              "uri": "http://i.imgur.com/p5r1wye.jpg",
+            }
+          }
+          style={
+            Object {
+              "height": 370,
+              "marginTop": 80,
+              "opacity": 1,
+              "transform": Array [
+                Object {
+                  "scale": 1,
+                },
+                Object {
+                  "translateY": 0,
+                },
+              ],
+              "width": 750,
+            }
+          }
+        />
+      </View>
+    </View>
+    <RCTScrollView
+      onScroll={[Function]}
+      scrollEventThrottle={16}
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "height": 370,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FAFAFA",
+              "minHeight": 964,
+              "paddingBottom": 20,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 25,
+                "margin": 15,
+                "marginBottom": 5,
+              }
+            }
+          >
+            Crock Pot Roast
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "marginLeft": 15,
+              }
+            }
+          >
+            Unknown
+             
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "color": "green",
+                "fontSize": 20,
+                "margin": 15,
+              }
+            }
+          >
+            Price: $ 
+            44
+            .00
+          </Text>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#0275d8",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "marginLeft": 15,
+                  "marginRight": 15,
+                  "padding": 10,
+                  "paddingLeft": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": "#fff",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "marginRight": 10,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#fff",
+                    "fontSize": 18,
+                  }
+                }
+              >
+                Buy
+              </Text>
+            </View>
+          </View>
+          <View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#eee",
+                  "borderColor": "#E8E8E8",
+                  "borderWidth": 0.5,
+                  "flexDirection": "row",
+                  "marginBottom": 5,
+                  "marginTop": 20,
+                  "paddingBottom": 10,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                  "paddingTop": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 30,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "color": "#313131",
+                    "fontSize": 18,
+                    "fontWeight": "bold",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                Ingredients
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 15,
+                    },
+                    Object {
+                      "alignSelf": "center",
+                      "marginRight": 5,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#995555",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                 
+                1
+                 
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "fontSize": 16,
+                  }
+                }
+              >
+                beef roast
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 15,
+                    },
+                    Object {
+                      "alignSelf": "center",
+                      "marginRight": 5,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#995555",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                 
+                1 package
+                 
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "fontSize": 16,
+                  }
+                }
+              >
+                brown gravy mix
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 15,
+                    },
+                    Object {
+                      "alignSelf": "center",
+                      "marginRight": 5,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#995555",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                 
+                1 package
+                 
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "fontSize": 16,
+                  }
+                }
+              >
+                dried Italian salad dressing mix
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 15,
+                    },
+                    Object {
+                      "alignSelf": "center",
+                      "marginRight": 5,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#995555",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                 
+                1 package
+                 
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "fontSize": 16,
+                  }
+                }
+              >
+                dry ranch dressing mix
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 15,
+                    },
+                    Object {
+                      "alignSelf": "center",
+                      "marginRight": 5,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#995555",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                 
+                1/2 cup
+                 
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "fontSize": 16,
+                  }
+                }
+              >
+                water
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#eee",
+                  "borderColor": "#E8E8E8",
+                  "borderWidth": 0.5,
+                  "flexDirection": "row",
+                  "marginBottom": 5,
+                  "marginTop": 20,
+                  "paddingBottom": 10,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                  "paddingTop": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 30,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "color": "#313131",
+                    "fontSize": 18,
+                    "fontWeight": "bold",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                Preparation Steps
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "borderColor": "#333",
+                    "borderRadius": 5,
+                    "borderWidth": 0.5,
+                    "fontSize": 14,
+                    "marginBottom": 5,
+                    "marginRight": 5,
+                    "padding": 5,
+                    "textAlign": "center",
+                    "width": 30,
+                  }
+                }
+              >
+                1
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                Place beef roast in crock pot.
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "borderColor": "#333",
+                    "borderRadius": 5,
+                    "borderWidth": 0.5,
+                    "fontSize": 14,
+                    "marginBottom": 5,
+                    "marginRight": 5,
+                    "padding": 5,
+                    "textAlign": "center",
+                    "width": 30,
+                  }
+                }
+              >
+                2
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                Mix the dried mixes together in a bowl and sprinkle over the roast.
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "borderColor": "#333",
+                    "borderRadius": 5,
+                    "borderWidth": 0.5,
+                    "fontSize": 14,
+                    "marginBottom": 5,
+                    "marginRight": 5,
+                    "padding": 5,
+                    "textAlign": "center",
+                    "width": 30,
+                  }
+                }
+              >
+                3
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                Pour the water around the roast.
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "borderColor": "#333",
+                    "borderRadius": 5,
+                    "borderWidth": 0.5,
+                    "fontSize": 14,
+                    "marginBottom": 5,
+                    "marginRight": 5,
+                    "padding": 5,
+                    "textAlign": "center",
+                    "width": 30,
+                  }
+                }
+              >
+                4
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                Cook on low for 7-9 hours.
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`Details Screen renders Wine details correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FAFAFA",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "marginTop": -50,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          Object {
+            "height": 620,
+            "transform": Array [
+              Object {
+                "translateY": 0,
+              },
+            ],
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "height": 370,
+            "justifyContent": "center",
+            "left": 0,
+            "paddingTop": 30,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      >
+        <Image
+          resizeMode="cover"
+          source={
+            Object {
+              "uri": "https://raw.githubusercontent.com/hollyschinsky/angular-cellar-basic/25566f8b/pics/saint_cosme.jpg",
+            }
+          }
+          style={
+            Object {
+              "height": 370,
+              "marginTop": 80,
+              "opacity": 1,
+              "transform": Array [
+                Object {
+                  "scale": 1,
+                },
+                Object {
+                  "translateY": 0,
+                },
+              ],
+              "width": 750,
+            }
+          }
+        />
+      </View>
+    </View>
+    <RCTScrollView
+      onScroll={[Function]}
+      scrollEventThrottle={16}
+      style={
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "transparent",
+              "height": 370,
+              "width": 750,
+            }
+          }
+        />
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FAFAFA",
+              "minHeight": 964,
+              "paddingBottom": 20,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 25,
+                "margin": 15,
+                "marginBottom": 5,
+              }
+            }
+          >
+            Chateau de saint cosme
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "marginLeft": 15,
+              }
+            }
+          >
+            Southern Rhone
+             
+            France
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "color": "green",
+                "fontSize": 20,
+                "margin": 15,
+              }
+            }
+          >
+            Price: $ 
+            86
+            .00
+          </Text>
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
+            accessible={true}
+            hasTVPreferredFocus={undefined}
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                },
+                undefined,
+              ]
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#0275d8",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "marginLeft": 15,
+                  "marginRight": 15,
+                  "padding": 10,
+                  "paddingLeft": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": "#fff",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "marginRight": 10,
+                    },
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "color": "#fff",
+                    "fontSize": 18,
+                  }
+                }
+              >
+                Buy
+              </Text>
+            </View>
+          </View>
+          <View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#eee",
+                  "borderColor": "#E8E8E8",
+                  "borderWidth": 0.5,
+                  "flexDirection": "row",
+                  "marginBottom": 5,
+                  "marginTop": 20,
+                  "paddingBottom": 10,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                  "paddingTop": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 30,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "color": "#313131",
+                    "fontSize": 18,
+                    "fontWeight": "bold",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                Location
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                From the year 
+                2009
+                 with 
+                Grenache / Syrah
+                 grapes found in 
+                Southern Rhone
+                , 
+                France
+                .
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#eee",
+                  "borderColor": "#E8E8E8",
+                  "borderWidth": 0.5,
+                  "flexDirection": "row",
+                  "marginBottom": 5,
+                  "marginTop": 20,
+                  "paddingBottom": 10,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                  "paddingTop": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={false}
+                ellipsizeMode="tail"
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 30,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                  ]
+                }
+              >
+                
+              </Text>
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "color": "#313131",
+                    "fontSize": 18,
+                    "fontWeight": "bold",
+                    "marginLeft": 10,
+                  }
+                }
+              >
+                Description
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "marginTop": 3,
+                  "paddingLeft": 15,
+                  "paddingRight": 15,
+                }
+              }
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                ellipsizeMode="tail"
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`Search Screen renders Food correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#e5e5e5",
+        "borderBottomWidth": 0.5,
+        "margin": 15,
+        "marginBottom": 0,
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Search"
+      style={
+        Object {
+          "borderColor": "#e5e5e5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "height": 40,
+          "marginBottom": 5,
+          "padding": 5,
+        }
+      }
+      value=""
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontStyle": "italic",
+          "paddingBottom": 10,
+          "paddingTop": 3,
+          "textAlign": "right",
+        }
+      }
+    >
+      Showing all 0 items
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "margin": 10,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontSize": 20,
+          "textAlign": "center",
+        }
+      }
+    >
+      No results found
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Search Screen renders Wine correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderBottomColor": "#e5e5e5",
+        "borderBottomWidth": 0.5,
+        "margin": 15,
+        "marginBottom": 0,
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Search"
+      style={
+        Object {
+          "borderColor": "#e5e5e5",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "height": 40,
+          "marginBottom": 5,
+          "padding": 5,
+        }
+      }
+      value=""
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontStyle": "italic",
+          "paddingBottom": 10,
+          "paddingTop": 3,
+          "textAlign": "right",
+        }
+      }
+    >
+      Showing all 0 items
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "margin": 10,
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontSize": 20,
+          "textAlign": "center",
+        }
+      }
+    >
+      No results found
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`renders PurchaseScreen correctly 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 40,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Ionicons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "fontSize": 30,
+            "marginLeft": 10,
+          }
+        }
+      >
+        Crock Pot Roast
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            undefined,
+          ]
+        }
+      >
+        Item Price
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "marginLeft": 5,
+              "padding": 5,
+              "textAlign": "right",
+            },
+            undefined,
+          ]
+        }
+      >
+        44.00
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            Object {
+              "color": "#ff3333",
+            },
+          ]
+        }
+      >
+        Discount
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "marginLeft": 5,
+              "padding": 5,
+              "textAlign": "right",
+            },
+            Object {
+              "color": "#ff3333",
+            },
+          ]
+        }
+      >
+        -2.20
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            undefined,
+          ]
+        }
+      >
+        Tax
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "marginLeft": 5,
+              "padding": 5,
+              "textAlign": "right",
+            },
+            undefined,
+          ]
+        }
+      >
+        13.20
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            undefined,
+          ]
+        }
+      >
+        Tips
+      </Text>
+      <TextInput
+        keyboardType="numeric"
+        onChangeText={[Function]}
+        style={
+          Object {
+            "borderColor": "#CCC",
+            "borderWidth": 0.5,
+            "color": "#333",
+            "flex": 1,
+            "fontSize": 18,
+            "marginLeft": 5,
+            "padding": 5,
+            "textAlign": "right",
+          }
+        }
+        value="0"
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            Object {
+              "fontSize": 20,
+              "fontWeight": "bold",
+            },
+          ]
+        }
+      >
+        Subtotal
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "marginLeft": 5,
+              "padding": 5,
+              "textAlign": "right",
+            },
+            Object {
+              "fontSize": 20,
+              "fontWeight": "bold",
+            },
+          ]
+        }
+      >
+        55.00
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            undefined,
+          ]
+        }
+      >
+        Surcharge
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "marginLeft": 5,
+              "padding": 5,
+              "textAlign": "right",
+            },
+            undefined,
+          ]
+        }
+      >
+        13.20
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 5,
+          "marginLeft": 15,
+          "marginRight": 15,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "padding": 5,
+            },
+            Object {
+              "borderColor": "#222",
+              "color": "#111",
+              "fontSize": 30,
+              "fontWeight": "bold",
+              "marginBottom": 25,
+            },
+          ]
+        }
+      >
+        Total
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "borderColor": "#CCC",
+              "borderWidth": 0.5,
+              "color": "#333",
+              "flex": 1,
+              "fontSize": 18,
+              "marginLeft": 5,
+              "padding": 5,
+              "textAlign": "right",
+            },
+            Object {
+              "borderColor": "#222",
+              "color": "#111",
+              "fontSize": 30,
+              "fontWeight": "bold",
+              "marginBottom": 25,
+            },
+          ]
+        }
+      >
+        68.20
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+          },
+          undefined,
+        ]
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#0275d8",
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginLeft": 15,
+            "marginRight": 15,
+            "padding": 10,
+            "paddingLeft": 15,
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 30,
+              },
+              Object {
+                "marginRight": 10,
+              },
+              Object {
+                "fontFamily": "Ionicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 18,
+            }
+          }
+        >
+          Make Payment
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
