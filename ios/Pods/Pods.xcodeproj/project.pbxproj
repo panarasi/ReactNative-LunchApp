@@ -1,0 +1,754 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		268ACCA68FCBD14CABF2E88C9F34EC95 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */; };
+		6395FDB5E1398FF9E441DACA44C180EC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */; };
+		69251FEE3E67B66C0B505D6168C3DF52 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */; };
+		A20C90863D57F9AAD6C386EC456CD1F6 /* Pods-LunchAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EA5E47C6434204FBA83B0BF3A24DF5C3 /* Pods-LunchAppTests-dummy.m */; };
+		B2C9C0D20CDB34242FAE0831E252312D /* Pods-LunchApp-tvOSTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 675D57E8B726D412AD937BDB1D44A090 /* Pods-LunchApp-tvOSTests-dummy.m */; };
+		D139350284A7A142E49ACAA93E8E4A06 /* Pods-LunchApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B2E755F2DD731119849C5EFA1CC783 /* Pods-LunchApp-dummy.m */; };
+		D50D6DCEE0A1B971DA71D55DEEE854B8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */; };
+		E21852BDC71C88BE177E4F1A89842F9D /* Pods-LunchApp-tvOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 51EE6E1DFE8D02CC3EFE87D046B47EA1 /* Pods-LunchApp-tvOS-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0115C54BF3CB426B869B7E123BE5CA76 /* Pods-LunchApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LunchApp-acknowledgements.plist"; sourceTree = "<group>"; };
+		0420ED8542194AAA860B1A578CBE1969 /* MobileCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCenterAnalytics.framework; path = "MobileCenter-SDK-iOS/MobileCenterAnalytics.framework"; sourceTree = "<group>"; };
+		11401A03A7760F75E1F344289111C44D /* MobileCenterCrashes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCenterCrashes.framework; path = "MobileCenter-SDK-iOS/MobileCenterCrashes.framework"; sourceTree = "<group>"; };
+		127BB4D7A514D752E690027FCAD2712E /* RNMobileCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RNMobileCenter.framework; path = RNMobileCenter/RNMobileCenter.framework; sourceTree = "<group>"; };
+		16B2E755F2DD731119849C5EFA1CC783 /* Pods-LunchApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LunchApp-dummy.m"; sourceTree = "<group>"; };
+		1C2C999B0360D20436B4C702F53CA9F9 /* Pods-LunchApp-tvOS-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchApp-tvOS-resources.sh"; sourceTree = "<group>"; };
+		242D25078BFF4DD46E5923FF9E0B5F7B /* Pods-LunchApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		2A2F0A53963B9090AD1B1824F19E8E07 /* libPods-LunchApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-LunchApp.a"; path = "libPods-LunchApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		34E48407ED017C5556BF85103D30B3A6 /* Pods-LunchAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4B00E78CBD5A74E241FFAC80B728BFFB /* Pods-LunchAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		51EE6E1DFE8D02CC3EFE87D046B47EA1 /* Pods-LunchApp-tvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LunchApp-tvOS-dummy.m"; sourceTree = "<group>"; };
+		52A48D85131F8EA60F4C630B3FD8D4A8 /* Pods-LunchAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchAppTests-resources.sh"; sourceTree = "<group>"; };
+		53847BD5B893626742AAB67BEF78864B /* libPods-LunchApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-LunchApp-tvOS.a"; path = "libPods-LunchApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63C64E1B6F49CCE694C202AF6372C00B /* Pods-LunchAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LunchAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		675D57E8B726D412AD937BDB1D44A090 /* Pods-LunchApp-tvOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LunchApp-tvOSTests-dummy.m"; sourceTree = "<group>"; };
+		6A2BB8509D561E1BF1FF59FEBAFDBCB6 /* Pods-LunchApp-tvOS-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchApp-tvOS-frameworks.sh"; sourceTree = "<group>"; };
+		6F037FB21F92E6A46A872CA3B2B602BF /* Pods-LunchAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchAppTests-frameworks.sh"; sourceTree = "<group>"; };
+		71B15EBC2CF144E0F81C976ACA7F61D0 /* Pods-LunchApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		75CF532B2A632D908E4C012EDF26FD57 /* Pods-LunchAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LunchAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		810BA320CCF6EE4F0FEA28AA6AB26704 /* Pods-LunchApp-tvOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LunchApp-tvOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		90C0BC1DAEF01DF968251E9747A0921C /* Pods-LunchApp-tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LunchApp-tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9503BB8D14FEF8889B70D7818CBAF1DA /* Pods-LunchApp-tvOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LunchApp-tvOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		9A17FFDE02AB352B6EFE05503B8F400E /* Pods-LunchApp-tvOSTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchApp-tvOSTests-resources.sh"; sourceTree = "<group>"; };
+		9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		A080D3980E4075C7CC4B38B67282500D /* Pods-LunchApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A139F9EE2BAD29E912624CCBE00149E7 /* Pods-LunchApp-tvOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchApp-tvOSTests-frameworks.sh"; sourceTree = "<group>"; };
+		B0686F2A023ABE45E47AC747250677D1 /* Pods-LunchApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchApp.release.xcconfig"; sourceTree = "<group>"; };
+		D2E35B5234C94E8EB6A36EA6D49EFA51 /* Pods-LunchApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchApp-frameworks.sh"; sourceTree = "<group>"; };
+		D4094B002C4F0A9D3F3807759831CF06 /* libPods-LunchApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-LunchApp-tvOSTests.a"; path = "libPods-LunchApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D836CCEDA076134C839DB10B629A5953 /* MobileCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCenter.framework; path = "MobileCenter-SDK-iOS/MobileCenter.framework"; sourceTree = "<group>"; };
+		E0213E11C210EE56BC505036DB0671EA /* Pods-LunchApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LunchApp-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E4FC62DD614DB727219E9A2D286A340B /* Pods-LunchApp-tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LunchApp-tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E5C0EB08217BC349AF17FB8240A66FBD /* libPods-LunchAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-LunchAppTests.a"; path = "libPods-LunchAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6F817439FA093B92BC42E651582B9F6 /* Pods-LunchApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		EA5E47C6434204FBA83B0BF3A24DF5C3 /* Pods-LunchAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LunchAppTests-dummy.m"; sourceTree = "<group>"; };
+		F77B844D9E167E226921A0A94A96F485 /* Pods-LunchApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LunchApp.debug.xcconfig"; sourceTree = "<group>"; };
+		FACB7E19D3B638910B881A1B0EF5AD2F /* Pods-LunchApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LunchApp-resources.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1EA7E2374C1C147E2713212E5D4FE189 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				268ACCA68FCBD14CABF2E88C9F34EC95 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2C364B4595ABCD8A81C94D8574B70FC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D50D6DCEE0A1B971DA71D55DEEE854B8 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		68F49BD807E3C74A61AFA0582567396B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6395FDB5E1398FF9E441DACA44C180EC /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6C1B5B3271691E60DB37B9478F3ACE1D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				69251FEE3E67B66C0B505D6168C3DF52 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0D0CBC91EE901CF4E8E88564B44FB78F /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7972839F347D9103329D562CEBD9FCA6 /* Pods-LunchApp */,
+				FF89B297F0A1E2109944BD90922032F1 /* Pods-LunchApp-tvOS */,
+				A4110BEE3748AD2E26F6522BE6F71778 /* Pods-LunchApp-tvOSTests */,
+				9F9EB8203C66E21F8D6CC842F2B72EFF /* Pods-LunchAppTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		0F8B8E770E5F62D5C7EB9415FBE7DF3C /* MobileCenter */ = {
+			isa = PBXGroup;
+			children = (
+				65FF0CEEF41664B36B67AD9AE48A3E96 /* MobileCenter */,
+				11E4F600AB14A8AC4026B1C21167B392 /* MobileCenterAnalytics */,
+				C42A49CF64BDDE516600958AF0D40B0B /* MobileCenterCrashes */,
+			);
+			name = MobileCenter;
+			path = MobileCenter;
+			sourceTree = "<group>";
+		};
+		11E4F600AB14A8AC4026B1C21167B392 /* MobileCenterAnalytics */ = {
+			isa = PBXGroup;
+			children = (
+				4968CA0CE276E6E3984FA5AF0D8B4C24 /* Frameworks */,
+			);
+			name = MobileCenterAnalytics;
+			sourceTree = "<group>";
+		};
+		15F86BCAED8044B3BEEC8590550A58C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				127BB4D7A514D752E690027FCAD2712E /* RNMobileCenter.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		40E69F54529E0CEE3EFB3A6D66970E1D /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				9D48912B8B70552CB7E69D87039E4C2C /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		4968CA0CE276E6E3984FA5AF0D8B4C24 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0420ED8542194AAA860B1A578CBE1969 /* MobileCenterAnalytics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		65FF0CEEF41664B36B67AD9AE48A3E96 /* MobileCenter */ = {
+			isa = PBXGroup;
+			children = (
+				A10AF577783A090C4314504D35581EA5 /* Frameworks */,
+			);
+			name = MobileCenter;
+			sourceTree = "<group>";
+		};
+		684B4778CAA4359E957690AFB0C48AB7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				11401A03A7760F75E1F344289111C44D /* MobileCenterCrashes.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7972839F347D9103329D562CEBD9FCA6 /* Pods-LunchApp */ = {
+			isa = PBXGroup;
+			children = (
+				E0213E11C210EE56BC505036DB0671EA /* Pods-LunchApp-acknowledgements.markdown */,
+				0115C54BF3CB426B869B7E123BE5CA76 /* Pods-LunchApp-acknowledgements.plist */,
+				16B2E755F2DD731119849C5EFA1CC783 /* Pods-LunchApp-dummy.m */,
+				D2E35B5234C94E8EB6A36EA6D49EFA51 /* Pods-LunchApp-frameworks.sh */,
+				FACB7E19D3B638910B881A1B0EF5AD2F /* Pods-LunchApp-resources.sh */,
+				F77B844D9E167E226921A0A94A96F485 /* Pods-LunchApp.debug.xcconfig */,
+				B0686F2A023ABE45E47AC747250677D1 /* Pods-LunchApp.release.xcconfig */,
+			);
+			name = "Pods-LunchApp";
+			path = "Target Support Files/Pods-LunchApp";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				A42F72DC1D780481325DD00969B19BB6 /* Frameworks */,
+				E919E1692C8A1DA7EBD5CDC41EAC23E0 /* Pods */,
+				D3E0F6881BA4B03587FAC507EE5AFE87 /* Products */,
+				0D0CBC91EE901CF4E8E88564B44FB78F /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		9F9EB8203C66E21F8D6CC842F2B72EFF /* Pods-LunchAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				75CF532B2A632D908E4C012EDF26FD57 /* Pods-LunchAppTests-acknowledgements.markdown */,
+				63C64E1B6F49CCE694C202AF6372C00B /* Pods-LunchAppTests-acknowledgements.plist */,
+				EA5E47C6434204FBA83B0BF3A24DF5C3 /* Pods-LunchAppTests-dummy.m */,
+				6F037FB21F92E6A46A872CA3B2B602BF /* Pods-LunchAppTests-frameworks.sh */,
+				52A48D85131F8EA60F4C630B3FD8D4A8 /* Pods-LunchAppTests-resources.sh */,
+				34E48407ED017C5556BF85103D30B3A6 /* Pods-LunchAppTests.debug.xcconfig */,
+				4B00E78CBD5A74E241FFAC80B728BFFB /* Pods-LunchAppTests.release.xcconfig */,
+			);
+			name = "Pods-LunchAppTests";
+			path = "Target Support Files/Pods-LunchAppTests";
+			sourceTree = "<group>";
+		};
+		A10AF577783A090C4314504D35581EA5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D836CCEDA076134C839DB10B629A5953 /* MobileCenter.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A4110BEE3748AD2E26F6522BE6F71778 /* Pods-LunchApp-tvOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				810BA320CCF6EE4F0FEA28AA6AB26704 /* Pods-LunchApp-tvOSTests-acknowledgements.markdown */,
+				9503BB8D14FEF8889B70D7818CBAF1DA /* Pods-LunchApp-tvOSTests-acknowledgements.plist */,
+				675D57E8B726D412AD937BDB1D44A090 /* Pods-LunchApp-tvOSTests-dummy.m */,
+				A139F9EE2BAD29E912624CCBE00149E7 /* Pods-LunchApp-tvOSTests-frameworks.sh */,
+				9A17FFDE02AB352B6EFE05503B8F400E /* Pods-LunchApp-tvOSTests-resources.sh */,
+				A080D3980E4075C7CC4B38B67282500D /* Pods-LunchApp-tvOSTests.debug.xcconfig */,
+				71B15EBC2CF144E0F81C976ACA7F61D0 /* Pods-LunchApp-tvOSTests.release.xcconfig */,
+			);
+			name = "Pods-LunchApp-tvOSTests";
+			path = "Target Support Files/Pods-LunchApp-tvOSTests";
+			sourceTree = "<group>";
+		};
+		A42F72DC1D780481325DD00969B19BB6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				40E69F54529E0CEE3EFB3A6D66970E1D /* iOS */,
+				B95AAC6DF73A3AFC4B77A363C70E8A09 /* tvOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B95AAC6DF73A3AFC4B77A363C70E8A09 /* tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				E89CCC94F17EC560C78ED506CF416FAF /* Foundation.framework */,
+			);
+			name = tvOS;
+			sourceTree = "<group>";
+		};
+		C42A49CF64BDDE516600958AF0D40B0B /* MobileCenterCrashes */ = {
+			isa = PBXGroup;
+			children = (
+				684B4778CAA4359E957690AFB0C48AB7 /* Frameworks */,
+			);
+			name = MobileCenterCrashes;
+			sourceTree = "<group>";
+		};
+		D3E0F6881BA4B03587FAC507EE5AFE87 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2A2F0A53963B9090AD1B1824F19E8E07 /* libPods-LunchApp.a */,
+				53847BD5B893626742AAB67BEF78864B /* libPods-LunchApp-tvOS.a */,
+				D4094B002C4F0A9D3F3807759831CF06 /* libPods-LunchApp-tvOSTests.a */,
+				E5C0EB08217BC349AF17FB8240A66FBD /* libPods-LunchAppTests.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E3EC0189E194298D1CED5AAA19235AB9 /* RNMobileCenter */ = {
+			isa = PBXGroup;
+			children = (
+				15F86BCAED8044B3BEEC8590550A58C4 /* Frameworks */,
+			);
+			name = RNMobileCenter;
+			path = RNMobileCenter;
+			sourceTree = "<group>";
+		};
+		E919E1692C8A1DA7EBD5CDC41EAC23E0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0F8B8E770E5F62D5C7EB9415FBE7DF3C /* MobileCenter */,
+				E3EC0189E194298D1CED5AAA19235AB9 /* RNMobileCenter */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		FF89B297F0A1E2109944BD90922032F1 /* Pods-LunchApp-tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				E4FC62DD614DB727219E9A2D286A340B /* Pods-LunchApp-tvOS-acknowledgements.markdown */,
+				90C0BC1DAEF01DF968251E9747A0921C /* Pods-LunchApp-tvOS-acknowledgements.plist */,
+				51EE6E1DFE8D02CC3EFE87D046B47EA1 /* Pods-LunchApp-tvOS-dummy.m */,
+				6A2BB8509D561E1BF1FF59FEBAFDBCB6 /* Pods-LunchApp-tvOS-frameworks.sh */,
+				1C2C999B0360D20436B4C702F53CA9F9 /* Pods-LunchApp-tvOS-resources.sh */,
+				E6F817439FA093B92BC42E651582B9F6 /* Pods-LunchApp-tvOS.debug.xcconfig */,
+				242D25078BFF4DD46E5923FF9E0B5F7B /* Pods-LunchApp-tvOS.release.xcconfig */,
+			);
+			name = "Pods-LunchApp-tvOS";
+			path = "Target Support Files/Pods-LunchApp-tvOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		48374F8AB26B79B6099CA2F53514FAB1 /* Pods-LunchApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79C9FAE3D576B403421566749931386A /* Build configuration list for PBXNativeTarget "Pods-LunchApp" */;
+			buildPhases = (
+				A9150140E713205A48348069039EF418 /* Sources */,
+				6C1B5B3271691E60DB37B9478F3ACE1D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-LunchApp";
+			productName = "Pods-LunchApp";
+			productReference = 2A2F0A53963B9090AD1B1824F19E8E07 /* libPods-LunchApp.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		718469C39C26FB4D1828636ADE302638 /* Pods-LunchApp-tvOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE0BD46E10CD3C6AA2AAB8510B2AFCC8 /* Build configuration list for PBXNativeTarget "Pods-LunchApp-tvOS" */;
+			buildPhases = (
+				55B75048F75FD05BC724A8B44C8276FF /* Sources */,
+				2C364B4595ABCD8A81C94D8574B70FC0 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-LunchApp-tvOS";
+			productName = "Pods-LunchApp-tvOS";
+			productReference = 53847BD5B893626742AAB67BEF78864B /* libPods-LunchApp-tvOS.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		DCAECB94A28E4B5C0A00BAF642398619 /* Pods-LunchAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FBE7E878EF1F0FC28C38CB87D55E25BB /* Build configuration list for PBXNativeTarget "Pods-LunchAppTests" */;
+			buildPhases = (
+				30818A496375A691C06FDA71CDFDB815 /* Sources */,
+				1EA7E2374C1C147E2713212E5D4FE189 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-LunchAppTests";
+			productName = "Pods-LunchAppTests";
+			productReference = E5C0EB08217BC349AF17FB8240A66FBD /* libPods-LunchAppTests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		F65EB944D53E9C3655B9C80B96CCEB12 /* Pods-LunchApp-tvOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B8C31A5863C8C6AE20BB982002430CDA /* Build configuration list for PBXNativeTarget "Pods-LunchApp-tvOSTests" */;
+			buildPhases = (
+				95FC465B736A049DA7208C8DDCDEB4CB /* Sources */,
+				68F49BD807E3C74A61AFA0582567396B /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-LunchApp-tvOSTests";
+			productName = "Pods-LunchApp-tvOSTests";
+			productReference = D4094B002C4F0A9D3F3807759831CF06 /* libPods-LunchApp-tvOSTests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = D3E0F6881BA4B03587FAC507EE5AFE87 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				48374F8AB26B79B6099CA2F53514FAB1 /* Pods-LunchApp */,
+				718469C39C26FB4D1828636ADE302638 /* Pods-LunchApp-tvOS */,
+				F65EB944D53E9C3655B9C80B96CCEB12 /* Pods-LunchApp-tvOSTests */,
+				DCAECB94A28E4B5C0A00BAF642398619 /* Pods-LunchAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		30818A496375A691C06FDA71CDFDB815 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A20C90863D57F9AAD6C386EC456CD1F6 /* Pods-LunchAppTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55B75048F75FD05BC724A8B44C8276FF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21852BDC71C88BE177E4F1A89842F9D /* Pods-LunchApp-tvOS-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95FC465B736A049DA7208C8DDCDEB4CB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B2C9C0D20CDB34242FAE0831E252312D /* Pods-LunchApp-tvOSTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A9150140E713205A48348069039EF418 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D139350284A7A142E49ACAA93E8E4A06 /* Pods-LunchApp-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0B43A67CEC0B68167428C47C8B9118F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0DD375463CA1F1E2B992B53FC6539F68 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B0686F2A023ABE45E47AC747250677D1 /* Pods-LunchApp.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		40C166AF84D932F1A03D10DE6518FFFF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F77B844D9E167E226921A0A94A96F485 /* Pods-LunchApp.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		541935AE9D2B9A748454F663E3239E79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4B00E78CBD5A74E241FFAC80B728BFFB /* Pods-LunchAppTests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		62DCAFB0A1C77F97244B0E41BF841598 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A080D3980E4075C7CC4B38B67282500D /* Pods-LunchApp-tvOSTests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		68446A670475DC3C76BB3F1FE5FAB7B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 242D25078BFF4DD46E5923FF9E0B5F7B /* Pods-LunchApp-tvOS.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Release;
+		};
+		746624554A97B795C0A09A118319DEDA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 34E48407ED017C5556BF85103D30B3A6 /* Pods-LunchAppTests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		86EFD1A1A6F845D9567E3C8F433172CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+		A673FEACD6D144C11658685EA21A26DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 71B15EBC2CF144E0F81C976ACA7F61D0 /* Pods-LunchApp-tvOSTests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Release;
+		};
+		B7D81EA03F4D9C1EA0DFB3EAE79F0DF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6F817439FA093B92BC42E651582B9F6 /* Pods-LunchApp-tvOS.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TVOS_DEPLOYMENT_TARGET = 9.2;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86EFD1A1A6F845D9567E3C8F433172CA /* Debug */,
+				0B43A67CEC0B68167428C47C8B9118F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79C9FAE3D576B403421566749931386A /* Build configuration list for PBXNativeTarget "Pods-LunchApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				40C166AF84D932F1A03D10DE6518FFFF /* Debug */,
+				0DD375463CA1F1E2B992B53FC6539F68 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AE0BD46E10CD3C6AA2AAB8510B2AFCC8 /* Build configuration list for PBXNativeTarget "Pods-LunchApp-tvOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7D81EA03F4D9C1EA0DFB3EAE79F0DF7 /* Debug */,
+				68446A670475DC3C76BB3F1FE5FAB7B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B8C31A5863C8C6AE20BB982002430CDA /* Build configuration list for PBXNativeTarget "Pods-LunchApp-tvOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62DCAFB0A1C77F97244B0E41BF841598 /* Debug */,
+				A673FEACD6D144C11658685EA21A26DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FBE7E878EF1F0FC28C38CB87D55E25BB /* Build configuration list for PBXNativeTarget "Pods-LunchAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				746624554A97B795C0A09A118319DEDA /* Debug */,
+				541935AE9D2B9A748454F663E3239E79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

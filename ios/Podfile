@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'LunchApp' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for LunchApp
+  pod 'RNMobileCenter', '~> 0.2.0'
+  pod 'MobileCenter', '~> 0.4.0'
+
+  
+
+  target 'LunchAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'LunchApp-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for LunchApp-tvOS
+
+  target 'LunchApp-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
