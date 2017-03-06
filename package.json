@@ -22,6 +22,13 @@
     "jest": "19.0.2",
     "react-test-renderer": "~15.4.1"
   },
+  "peerDependencies": {
+    "code-push-cli": "^1.12.8-beta",
+    "flatten-source-map": "0.0.2",
+    "maya-kai": "0.0.10",
+    "request": "^2.74.0",
+    "websocket": "^1.0.23"
+  },
   "jest": {
     "preset": "react-native"
   }

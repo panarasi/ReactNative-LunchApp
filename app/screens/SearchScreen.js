@@ -4,7 +4,7 @@ import {
   Text,
   TextInput,
   View,
-  ListView,
+  ScrollView,
   Image,
   Platform,
   Dimensions,
@@ -21,8 +21,6 @@ export default class Search extends Component {
     results: [],
     searchTerm: ''
   }
-
-  dataSource = new ListView.DataSource({ rowHasChanged: (r1, r2) => r1 !== r2 });
 
   componentDidMount() {
     Service.search('', this.props.navigation.state.routeName)
@@ -121,11 +119,10 @@ export default class Search extends Component {
             </Text>
           </View>
           :
-          <ListView
-            style={styles.searchList}
-            dataSource={this.dataSource.cloneWithRows(results)}
-            renderRow={item => this.renderItem(item, routeName)}
-          />}
+          <ScrollView style={styles.searchList}>
+            {results.map((item, i) => <View key={i}>{this.renderItem(item, routeName)}</View>)}
+          </ScrollView>
+        }
       </View >
     );
   }

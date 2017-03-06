@@ -20,7 +20,7 @@ const shorten = (name, n) => name.substr(0, n - 1) + (name.length > n ? '...' : 
 export default class DetailsScreen extends Component {
     static navigationOptions = {
         title: ({ state }) => shorten(state.params.item.name, 25),
-        header: ({ goBack, state: { item, type }, navigate }) => ({
+        header: ({ goBack, state: {params: { item, type }}, navigate }) => ({
             left: (<TouchableHighlight onPress={() => goBack()}>
                 <MaterialIcons name="chevron-left" size={30} />
             </TouchableHighlight>),

@@ -15,6 +15,9 @@ import Drawer from './screens/Drawer';
 
 import Analytics from 'mobile-center-analytics';
 
+//import MK from 'maya-kai';
+//MK.start('192.168.0.104.xip.io:8082');
+
 function getCurrentRouteName(navigationState) {
   if (!navigationState) {
     return null;
