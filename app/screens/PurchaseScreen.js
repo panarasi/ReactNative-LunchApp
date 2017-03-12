@@ -8,7 +8,7 @@ import {
   TouchableHighlight
 } from 'react-native';
 
-import Service, { Bill } from './../data/service';
+import Service, { generateBill } from './../data/service';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
@@ -24,44 +24,19 @@ export default class DetailsScreen extends Component {
     })
   }
 
-  state = {}
+  state = {
+    tips: 0,
+    isPaid: false
+  }
 
   componentDidMount() {
-    let bill = new Bill(this.props.navigation.state.params.item.price, tips);
-    bill.calculateTotal();
-    this.setState(bill.get());
-  }
-
-  pay() {
-    let bill = new Bill(this.props.navigation.state.params.item.price, tips);
-    bill.calculateChargedTotal();
-    this.setState({ paid: true, ...bill.get() });
-  }
-
-  setTips(val) {
-    let bill = new Bill(this.props.navigation.state.params.item.price, val);
-    bill.calculateTotal();
-    this.setState(bill.get());
-    tips = val;
-  }
-
-  paymentMessage() {
-    if (!this.state.paid) {
-      return (<Button title="Make Payment" icon="ios-card" onPress={() => this.pay()} />);
-    }
-    return (
-      <View style={{ alignItems: 'center', marginTop: 20, marginBottom: 20 }}>
-        <Ionicons name="ios-checkmark-circle" size={70} color="#449d44" />
-        <Text style={{ fontSize: 22 }}>Thank You</Text>
-        <Text style={{ fontSize: 24, marginTop: 10 }}>
-          You have been charged ${this.state.chargedTotal}.00
-        </Text>
-      </View>
-    );
+    this.setState({ isPaid: false, tips: 0 });
   }
 
   render() {
     const { item, type } = this.props.navigation.state.params;
+    let bill = generateBill(item.price, (this.state.tips), this.state.isPaid);
+
     return (
       <ScrollView>
         <View style={{ flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginBottom: 15 }}>
@@ -69,26 +44,34 @@ export default class DetailsScreen extends Component {
           <Text style={{ fontSize: 30, marginLeft: 10 }}>{item.name}</Text>
         </View>
         <Row label="Item Price" value={item.price} />
-        <Row label="Discount" value={this.state.discount} style={{ color: '#ff3333' }} />
-        <Row label="Tax" value={this.state.tax} />
+        <Row label="Discount" value={bill.discount} style={{ color: '#ff3333' }} />
+        <Row label="Tax" value={bill.tax} />
         <Row label="Tips" >
           <TextInput
             style={styles.value}
             value={`${this.state.tips}`}
-            onChangeText={tips => this.setTips(tips)}
+            onChangeText={tips => this.setState({ tips })}
             keyboardType="numeric"
           />
         </Row>
-        <Row label="Subtotal" value={this.state.subtotal} style={{ fontWeight: 'bold', fontSize: 20 }} />
-        <Row label="Surcharge" value={this.state.surcharge} />
-        <Row label="Total" value={this.state.total} style={{ fontWeight: 'bold', fontSize: 30, borderColor: '#222', color: '#111', marginBottom: 25 }} />
-        {this.paymentMessage()}
+        <Row label="Subtotal" value={bill.subtotal} style={{ fontWeight: 'bold', fontSize: 20 }} />
+        <Row label="Surcharge" value={bill.surcharge} />
+        <Row label="Total" value={bill.total} style={{ fontWeight: 'bold', fontSize: 30, borderColor: '#222', color: '#111', marginBottom: 25 }} />
+        {!this.state.isPaid ?
+          <Button title="Make Payment" icon="ios-card" onPress={() => this.setState({ isPaid: true })} />
+          : (
+            <View style={{ alignItems: 'center', marginTop: 20, marginBottom: 20 }}>
+              <Ionicons name="ios-checkmark-circle" size={70} color="#449d44" />
+              <Text style={{ fontSize: 22 }}>Thank You</Text>
+              <Text style={{ fontSize: 24, marginTop: 10 }}>
+                You have been charged ${bill.chargedTotal}.00
+              </Text>
+            </View>
+          )}
       </ScrollView>
     );
   }
 }
-
-const BITCOINT_RATE = 100;
 
 const Row = (props) => (<View style={styles.row}>
   <Text style={[styles.label, props.style]}>{props.label}</Text>
@@ -138,11 +121,3 @@ const styles = StyleSheet.create({
     marginTop: 10
   }
 });
-
-const validateTips = (tips) => {
-  tips = parseInt(tips);
-  if (Number.isNaN(tips)) {
-    tips = 0;
-  }
-  return tips;
-}

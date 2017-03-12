@@ -140,6 +140,8 @@ var sourceMapUtil = {
 
 process.on('exit', function () {
   if (typeof emitTTDLog === 'function') {
+    console.log('Writing logs at ', path.join(__dirname, 'logs'));
     emitTTDLog(path.join(__dirname, 'logs'));
+    console.log("======= ALL DONE =========")
   }
 });

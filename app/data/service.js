@@ -18,6 +18,8 @@ class Service {
   }
 }
 
+export default new Service();
+
 export class Bill {
   constructor(price, tips) {
     this.price = price;
@@ -64,4 +66,8 @@ export class Bill {
   }
 }
 
-export default new Service();
+export const generateBill = (price, tips, isPaid) => {
+  let bill = new Bill(price, tips, isPaid);
+  isPaid ? bill.calculateChargedTotal() : bill.calculateTotal();
+  return bill.get();
+};
