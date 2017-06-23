@@ -15,14 +15,12 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 let tips = 0;
 
 export default class DetailsScreen extends Component {
-  static navigationOptions = {
+  static navigationOptions = ({ navigation: { state, goBack } }) => ({
     title: 'Purchase',
-    header: ({ goBack, state: { item, type }, navigate }) => ({
-      left: (<TouchableHighlight onPress={() => goBack()}>
-        <MaterialIcons name="chevron-left" size={30} />
-      </TouchableHighlight>),
-    })
-  }
+    headerLeft: (<TouchableHighlight onPress={() => goBack()}>
+      <MaterialIcons name="chevron-left" size={30} />
+    </TouchableHighlight>),
+  });
 
   state = {
     tips: 0,

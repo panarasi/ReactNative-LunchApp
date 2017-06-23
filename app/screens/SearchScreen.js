@@ -36,29 +36,24 @@ export default class Search extends Component {
     this.props.navigation.navigate('Details', { item, type });
   }
 
-  static navigationOptions = {
-    title: ({ state }) => `Select ${state.routeName}`,
-    tabBar: ({ state }) => ({
-      label: `${state.routeName}`,
-      icon: ({ tintColor, focused }) => (
-        <Ionicons
-          name={(state.routeName === 'Food' ? 'ios-pizza' : 'ios-wine') + (focused ? '' : '-outline')}
-          size={40}
-          style={{ color: tintColor }}
-        />
-      ),
-    }),
-    header: ({ navigate }) => ({
-      left:
-      <TouchableHighlight onPress={() => navigate('DrawerOpen')}>
-        <Ionicons
-          name="ios-menu"
-          size={30}
-          style={{ marginLeft: 10, marginTop: 10 }}
-        />
-      </TouchableHighlight>
-    })
-  }
+  static navigationOptions = ({ navigation: { state, setParams, goBack, navigate } }) => ({
+    title: `Select ${state.routeName}`,
+    tabBarLabel: `${state.routeName}`,
+    tabBarIcon: ({ tintColor, focused }) => (
+      <Ionicons
+        name={(state.routeName === 'Food' ? 'ios-pizza' : 'ios-wine') + (focused ? '' : '-outline')}
+        size={40}
+        style={{ color: tintColor }}
+      />),
+    headerLeft:
+    (<TouchableHighlight onPress={() => navigate('DrawerOpen')}>
+      <Ionicons
+        name="ios-menu"
+        size={30}
+        style={{ marginLeft: 10, marginTop: 10 }}
+      />
+    </TouchableHighlight>)
+  });
 
   renderItem(item, type) {
     return (

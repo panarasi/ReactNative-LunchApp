@@ -18,18 +18,15 @@ import Button from './Button';
 const shorten = (name, n) => name.substr(0, n - 1) + (name.length > n ? '...' : '')
 
 export default class DetailsScreen extends Component {
-    static navigationOptions = {
-        title: ({ state }) => shorten(state.params.item.name, 25),
-        header: ({ goBack, state: {params: { item, type }}, navigate }) => ({
-            left: (<TouchableHighlight onPress={() => goBack()}>
-                <MaterialIcons name="chevron-left" size={30} />
-            </TouchableHighlight>),
-            right: (<TouchableHighlight onPress={() => navigate('Purchase', { item, type })}>
-                <Ionicons name="ios-cart" size={30} style={{ margin: 10 }} />
-            </TouchableHighlight>),
-            style: {}
-        })
-    }
+    static navigationOptions = ({ navigation: { state, goBack, navigate } }) => ({
+        title: shorten(state.params.item.name, 25),
+        headerLeft: (<TouchableHighlight onPress={() => goBack()}>
+            <MaterialIcons name="chevron-left" size={30} />
+        </TouchableHighlight>),
+        headerRight: (<TouchableHighlight onPress={() => navigate('Purchase', { item: state.params.item, type: state.params.type })}>
+            <Ionicons name="ios-cart" size={30} style={{ margin: 10 }} />
+        </TouchableHighlight>)
+    })
 
     state = {
         scrollY: new Animated.Value(0),

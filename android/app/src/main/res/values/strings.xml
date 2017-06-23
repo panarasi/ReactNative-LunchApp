@@ -1,5 +1,5 @@
 <resources>
-    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">BfOOJnM15LMu-A0hOr1MFULHS5tvNkE1UOzyM</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">6mMQKvYOQqfT-NXZQwLab2YoyIm9BkPrKt9XZ</string>
     <string moduleConfig="true" name="mobileCenterCrashes_whenToSendCrashes">ALWAYS_SEND</string>
     <string moduleConfig="true" name="mobileCenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
     <string name="app_name">LunchApp</string>
